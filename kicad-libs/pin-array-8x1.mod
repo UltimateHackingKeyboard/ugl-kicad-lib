@@ -1,0 +1,84 @@
+PCBNEW-LibModule-V1  Mon 27 Aug 2012 12:15:49 AM CEST
+# encoding utf-8
+Units deci-mils
+$INDEX
+pin_array_8x1
+$EndINDEX
+$MODULE pin_array_8x1
+Po 0 0 0 15 503A9F40 00000000 ~~
+Li pin_array_8x1
+Cd 8x1 pin array
+Kw CONN
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1000 400 400 0 80 N V 21 N "PIN_ARRAY_8x1"
+T1 0 1000 400 400 0 80 N V 21 N "Val**"
+DS -3900 400 -3900 -400 120 21
+DS -3900 -400 3900 -400 120 21
+DS 3900 -400 3900 400 120 21
+DS 3900 400 -3900 400 120 21
+$PAD
+Sh "1" R 600 600 0 0 0
+Dr 400 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3500 0
+$EndPAD
+$PAD
+Sh "2" C 600 600 0 0 0
+Dr 400 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2500 0
+$EndPAD
+$PAD
+Sh "3" C 600 600 0 0 0
+Dr 400 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1500 0
+$EndPAD
+$PAD
+Sh "4" C 600 600 0 0 0
+Dr 400 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -500 0
+$EndPAD
+$PAD
+Sh "5" C 600 600 0 0 0
+Dr 400 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 500 0
+$EndPAD
+$PAD
+Sh "6" C 600 600 0 0 0
+Dr 400 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1500 0
+$EndPAD
+$PAD
+Sh "7" C 600 600 0 0 0
+Dr 400 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2500 0
+$EndPAD
+$PAD
+Sh "8" C 600 600 0 0 0
+Dr 400 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3500 0
+$EndPAD
+$SHAPE3D
+Na "pin_array/pins_array_8x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE pin_array_8x1
+$EndLIBRARY
