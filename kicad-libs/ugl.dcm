@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 13 Dec 2012 11:38:01 AM CET
+EESchema-DOCLIB  Version 2.0  Date: Fri 14 Dec 2012 01:25:10 AM CET
 #
 $CMP 7SEGM
 D Afficheur Leds 7 segments
@@ -17,10 +17,6 @@ $ENDCMP
 #
 $CMP C
 D Condensateur non polarise
-$ENDCMP
-#
-$CMP CAPAPOL
-D Condensateur polarise
 $ENDCMP
 #
 $CMP CERAMIC_FILTER
