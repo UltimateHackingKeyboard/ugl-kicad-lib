@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: Tue 25 Dec 2012 07:33:57 PM CET
+EESchema-LIBRARY Version 2.3  Date: Tue 25 Dec 2012 07:38:10 PM CET
 #encoding utf-8
 #
 # 7SEGM
@@ -680,8 +680,8 @@ DEF FUSE F 0 10 Y Y 1 F N
 F0 "F" 0 100 40 H V C CNN
 F1 "FUSE" 0 -100 40 H V C CNN
 DRAW
-A -25 -5 25 1686 113 0 1 0 N -50 0 0 0
-A 25 5 25 -1686 -113 0 1 0 N 0 0 50 0
+A -25 0 25 1 1799 0 1 0 N 0 0 -50 0
+A 25 0 25 -1799 -1 0 1 0 N 0 0 50 0
 X ~ ~ -100 0 50 R 40 40 1 1 I
 X ~ ~ 100 0 50 L 40 40 1 1 I
 ENDDRAW
