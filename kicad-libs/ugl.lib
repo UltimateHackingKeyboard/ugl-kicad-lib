@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: Tue 25 Dec 2012 07:38:10 PM CET
+EESchema-LIBRARY Version 2.3  Date: Tue 25 Dec 2012 07:42:01 PM CET
 #encoding utf-8
 #
 # 7SEGM
@@ -1094,9 +1094,9 @@ $FPLIST
  SM1206
 $ENDFPLIST
 DRAW
-P 12 0 1 0  -50 0  -45 20  -35 -20  -25 20  -15 -20  -5 20  5 -20  15 20  25 -20  35 20  45 -20  50 0 N
-X ~ 1 100 0 50 L 60 60 1 1 P
-X ~ 2 -100 0 50 R 60 60 1 1 P
+P 8 0 1 0  -60 0  -50 20  -30 -20  -10 20  10 -20  30 20  50 -20  60 0 N
+X ~ 1 100 0 40 L 60 60 1 1 P
+X ~ 2 -100 0 40 R 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
