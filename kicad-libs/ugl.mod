@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Mon 21 Oct 2013 04:44:49 PM CEST
+PCBNEW-LibModule-V1  Mon 21 Oct 2013 08:13:54 PM CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -7,6 +7,7 @@ $INDEX
 74HC595
 Cherry_MX
 MD2-40ST
+SFV14R-2STE1HLF
 SS-5GLD
 ULN2803
 UX60-MB-5S8
@@ -382,6 +383,131 @@ Ne 0 ""
 Po -0.70104 6.4008
 $EndPAD
 $EndMODULE MD2-40ST
+$MODULE SFV14R-2STE1HLF
+Po 0 0 0 15 52656E7B 00000000 ~~
+Li SFV14R-2STE1HLF
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -6.3 1 1 0 0.15 N I 21 N "SFV14R-2STE1HLF"
+T1 0 1.2 1 1 0 0.15 N V 21 N "VAL**"
+DS 6.4 -4.2 6.4 0 0.15 21
+DS -6.4 -4.2 -6.4 0 0.15 21
+DS -6.4 -4.2 6.4 -4.2 0.15 21
+DS -6.35 0 6.35 0 0.15 21
+$PAD
+Sh "11" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.75 -4.3
+$EndPAD
+$PAD
+Sh "10" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25 -4.3
+$EndPAD
+$PAD
+Sh "9" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 -4.3
+$EndPAD
+$PAD
+Sh "8" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 -4.3
+$EndPAD
+$PAD
+Sh "7" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 -4.3
+$EndPAD
+$PAD
+Sh "6" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 -4.3
+$EndPAD
+$PAD
+Sh "5" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25 -4.3
+$EndPAD
+$PAD
+Sh "4" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.75 -4.3
+$EndPAD
+$PAD
+Sh "3" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.25 -4.3
+$EndPAD
+$PAD
+Sh "12" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.25 -4.3
+$EndPAD
+$PAD
+Sh "2" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.75 -4.3
+$EndPAD
+$PAD
+Sh "1" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.25 -4.3
+$EndPAD
+$PAD
+Sh "13" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.75 -4.3
+$EndPAD
+$PAD
+Sh "14" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25 -6.6
+$EndPAD
+$PAD
+Sh "" R 2.65 2.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5 -3.05
+$EndPAD
+$PAD
+Sh "" R 2.65 2.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5 -3.05
+$EndPAD
+$EndMODULE SFV14R-2STE1HLF
 $MODULE SS-5GLD
 Po 0 0 0 15 52651F92 00000000 ~~
 Li SS-5GLD
