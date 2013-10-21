@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Mon 21 Oct 2013 11:43:05 AM CEST
+PCBNEW-LibModule-V1  Mon 21 Oct 2013 01:38:30 PM CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -18,72 +18,72 @@ pin_array_8x1
 vertical_pcb
 $EndINDEX
 $MODULE 5555154-2
-Po 0 0 0 15 518A4E47 00000000 ~~
+Po 0 0 0 15 526511C2 00000000 ~~
 Li 5555154-2
 Sc 0
 AR 
 Op 0 0 0
-T0 7.25 -20.15 1 1 0 0.15 N V 21 N "5555154-2"
-T1 7.44 1.3 1 1 0 0.15 N V 21 N "VAL**"
-DS 14.2 -18.54 14.2 0 0.15 21
-DS 14.2 0 0 0 0.15 21
-DS 0 0 0 -18.54 0.15 21
-DS 0 -18.54 14.2 -18.54 0.15 21
+T0 0 -19.7 1 1 0 0.15 N I 21 N "5555154-2"
+T1 0 1.2 1 1 0 0.15 N V 21 N "VAL**"
+DS 7.1 0 7.1 -18.54 0.15 21
+DS 7.1 -18.54 -7.1 -18.54 0.15 21
+DS -7.1 -18.54 -7.1 0 0.15 21
+DS -7.1 0 7.1 0 0.15 21
 $PAD
-Sh "9" C 3.25 3.25 0 0 0
-Dr 3.25 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po 2.02 -5.21
-$EndPAD
-$PAD
-Sh "10" C 3.25 3.25 0 0 0
-Dr 3.25 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po 12.18 -5.21
-$EndPAD
-$PAD
-Sh "11" C 1.29 1.29 0 0 0
-Dr 0.89 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po 5.2 -11.56
-$EndPAD
-$PAD
-Sh "12" C 1.29 1.29 0 0 0
-Dr 0.89 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po 6.47 -14.1
-$EndPAD
-$PAD
-Sh "13" C 1.29 1.29 0 0 0
-Dr 0.89 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po 7.74 -11.56
-$EndPAD
-$PAD
-Sh "14" C 1.29 1.29 0 0 0
-Dr 0.89 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po 9.01 -14.1
-$EndPAD
-$PAD
-Sh "15" O 1 2.2 0 0 0
+Sh "5" O 1.1 2.3 0 0 0
 Dr 0.6 0 0 O 0.6 1.8
 At STD N 00E0FFFF
 Ne 0 ""
-Po 0.24 -2.16
+Po -6.86 -5.08
 $EndPAD
 $PAD
-Sh "16" O 1.15 1.97 0 0 0
-Dr 0.75 0 0 O 0.75 1.57
+Sh "6" O 1.1 2.3 0 0 0
+Dr 0.6 0 0 O 0.6 1.8
 At STD N 00E0FFFF
 Ne 0 ""
-Po 13.96 -2.16
+Po 6.86 -5.08
+$EndPAD
+$PAD
+Sh "7" C 3.25 3.25 0 0 0
+Dr 3.25 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -8.13
+$EndPAD
+$PAD
+Sh "8" C 3.25 3.25 0 0 0
+Dr 3.25 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -8.13
+$EndPAD
+$PAD
+Sh "8" C 1.39 1.39 0 0 0
+Dr 0.89 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.905 -14.48
+$EndPAD
+$PAD
+Sh "9" C 1.39 1.39 0 0 0
+Dr 0.89 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.635 -14.48
+$EndPAD
+$PAD
+Sh "10" C 1.39 1.39 0 0 0
+Dr 0.89 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.635 -17.02
+$EndPAD
+$PAD
+Sh "11" C 1.39 1.39 0 0 0
+Dr 0.89 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.905 -17.02
 $EndPAD
 $EndMODULE 5555154-2
 $MODULE 74HC595
