@@ -1,14 +1,20 @@
-PCBNEW-LibModule-V1  Wed 08 May 2013 03:10:37 PM CEST
+PCBNEW-LibModule-V1  Mon 21 Oct 2013 10:06:53 AM CEST
 # encoding utf-8
 Units mm
 $INDEX
 5555154-2
 74HC595
 Cherry MX
+Cherry_MX
 MD2-40ST
 SS-5GLD
 ULN2803
 UX60-MB-5S8
+hole_2.2mm
+hole_4.6mm
+hole_4.8mm
+hole_5.5mm
+hole_5.7mm
 pin_array_8x1
 vertical_pcb
 $EndINDEX
@@ -252,6 +258,40 @@ Ne 0 ""
 Po 2.54 -5.08
 $EndPAD
 $EndMODULE Cherry MX
+$MODULE Cherry_MX
+Po 0 0 0 15 52644D77 00000000 ~~
+Li Cherry_MX
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -10.16 1.524 1.524 0 0.3048 N I 21 N "Cherry MX"
+T1 0 9.3 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS -7.62 -7.62 7.62 -7.62 0.381 21
+DS 7.62 -7.62 7.62 7.62 0.381 21
+DS 7.62 7.62 -7.62 7.62 0.381 21
+DS -7.62 7.62 -7.62 -7.62 0.381 21
+$PAD
+Sh "4" C 4.50088 4.50088 0 0 0
+Dr 4.0005 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "5" C 1.69926 1.69926 0 0 0
+Dr 1.50114 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -2.54
+$EndPAD
+$PAD
+Sh "6" C 1.69926 1.69926 0 0 0
+Dr 1.50114 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -5.08
+$EndPAD
+$EndMODULE Cherry_MX
 $MODULE MD2-40ST
 Po 0 0 0 15 502C2B9B 00000000 ~~
 Li MD2-40ST
@@ -554,6 +594,86 @@ Ne 0 ""
 Po -3.64998 3.29946
 $EndPAD
 $EndMODULE UX60-MB-5S8
+$MODULE hole_2.2mm
+Po 0 0 0 15 5264E08F 00000000 ~~
+Li hole_2.2mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.4 1 1 0 0.15 N I 21 N "hole_2.2mm"
+T1 0 2.5 1 1 0 0.15 N I 21 N "VAL**"
+$PAD
+Sh "1" C 2.2 2.2 0 0 0
+Dr 2.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE hole_2.2mm
+$MODULE hole_4.6mm
+Po 0 0 0 15 5264DDEA 00000000 ~~
+Li hole_4.6mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.7 1 1 0 0.15 N I 21 N "hole 4.6mm"
+T1 0 3.8 1 1 0 0.15 N I 21 N "VAL**"
+$PAD
+Sh "" C 4.6 4.6 0 0 0
+Dr 4.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE hole_4.6mm
+$MODULE hole_4.8mm
+Po 0 0 0 15 52644F22 00000000 ~~
+Li hole_4.8mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.7 1 1 0 0.15 N I 21 N "hole 4.8mm"
+T1 0 3.8 1 1 0 0.15 N I 21 N "VAL**"
+$PAD
+Sh "" C 4.8 4.8 0 0 0
+Dr 4.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE hole_4.8mm
+$MODULE hole_5.5mm
+Po 0 0 0 15 5264DDAE 00000000 ~~
+Li hole_5.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -4.2 1 1 0 0.15 N I 21 N "hole 5.5mm"
+T1 0 4.3 1 1 0 0.15 N I 21 N "VAL**"
+$PAD
+Sh "" C 5.5 5.5 0 0 0
+Dr 5.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE hole_5.5mm
+$MODULE hole_5.7mm
+Po 0 0 0 15 52644F02 00000000 ~~
+Li hole_5.7mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -4.2 1 1 0 0.15 N I 21 N "hole 5.7mm"
+T1 0 4.3 1 1 0 0.15 N I 21 N "VAL**"
+$PAD
+Sh "" C 5.7 5.7 0 0 0
+Dr 5.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE hole_5.7mm
 $MODULE pin_array_8x1
 Po 0 0 0 15 503A9F40 00000000 ~~
 Li pin_array_8x1
