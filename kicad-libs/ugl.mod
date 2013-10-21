@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Mon 21 Oct 2013 08:27:13 PM CEST
+PCBNEW-LibModule-V1  Mon 21 Oct 2013 08:50:19 PM CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -20,65 +20,65 @@ pin_array_8x1
 vertical_pcb
 $EndINDEX
 $MODULE 009155005541006
-Po 0 0 0 15 5265377C 00000000 ~~
+Po 0 0 0 15 5265774A 00000000 ~~
 Li 009155005541006
 Sc 0
 AR 
 Op 0 0 0
-T0 0 -5.9 1 1 0 0.15 N I 21 N "009155005541006"
+T0 0 -7 1 1 0 0.15 N I 21 N "009155005541006"
 T1 0 1.2 1 1 0 0.15 N V 21 N "VAL**"
 DS 6 0 6 -3.45 0.15 21
 DS 6 -3.45 -6 -3.45 0.15 21
 DS -6 -3.45 -6 0 0.15 21
 DS -6 0 6 0 0.15 21
 $PAD
-Sh "5" R 1.3 1 0 0 0
+Sh "5" R 1.3 2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -5 -4.15
+Po -5 -4.65
 $EndPAD
 $PAD
-Sh "4" R 1.3 1 0 0 0
+Sh "4" R 1.3 2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -2.5 -4.15
+Po -2.5 -4.65
 $EndPAD
 $PAD
-Sh "3" R 1.3 1 0 0 0
+Sh "3" R 1.3 2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0 -4.15
+Po 0 -4.65
 $EndPAD
 $PAD
-Sh "2" R 1.3 1 0 0 0
+Sh "2" R 1.3 2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 2.5 -4.15
+Po 2.5 -4.65
 $EndPAD
 $PAD
-Sh "1" R 1.3 1 0 0 0
+Sh "1" R 1.3 2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 5 -4.15
+Po 5 -4.65
 $EndPAD
 $PAD
-Sh "" R 1.5 2.15 0 0 0
+Sh "" R 2.1 2.95 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 7 -2
+Po 7.3 -1.8
 $EndPAD
 $PAD
-Sh "" R 1.5 2.15 0 0 0
+Sh "" R 2.1 2.95 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -7 -2
+Po -7.3 -1.8
 $EndPAD
 $EndMODULE 009155005541006
 $MODULE 5555154-2
