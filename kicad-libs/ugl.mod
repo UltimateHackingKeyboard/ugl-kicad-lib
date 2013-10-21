@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Mon 21 Oct 2013 08:19:28 PM CEST
+PCBNEW-LibModule-V1  Mon 21 Oct 2013 08:27:13 PM CEST
 # encoding utf-8
 Units mm
 $INDEX
@@ -384,7 +384,7 @@ Po -0.70104 6.4008
 $EndPAD
 $EndMODULE MD2-40ST
 $MODULE SFV14R-2STE1HLF
-Po 0 0 0 15 52657005 00000000 ~~
+Po 0 0 0 15 526571B8 00000000 ~~
 Li SFV14R-2STE1HLF
 Sc 0
 AR 
@@ -396,98 +396,98 @@ DS -6.4 -4.2 -6.4 0 0.15 21
 DS -6.4 -4.2 6.4 -4.2 0.15 21
 DS -6.35 0 6.35 0 0.15 21
 $PAD
-Sh "11" R 0.3 1.4 0 0 0
+Sh "4" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -1.75 -4.3
 $EndPAD
 $PAD
-Sh "10" R 0.3 1.4 0 0 0
+Sh "5" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -1.25 -4.3
 $EndPAD
 $PAD
-Sh "9" R 0.3 1.4 0 0 0
+Sh "6" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -0.75 -4.3
 $EndPAD
 $PAD
-Sh "8" R 0.3 1.4 0 0 0
+Sh "7" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -0.25 -4.3
 $EndPAD
 $PAD
-Sh "7" R 0.3 1.4 0 0 0
+Sh "8" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.25 -4.3
 $EndPAD
 $PAD
-Sh "6" R 0.3 1.4 0 0 0
+Sh "9" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.75 -4.3
 $EndPAD
 $PAD
-Sh "5" R 0.3 1.4 0 0 0
+Sh "10" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 1.25 -4.3
 $EndPAD
 $PAD
-Sh "4" R 0.3 1.4 0 0 0
+Sh "11" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 1.75 -4.3
 $EndPAD
 $PAD
-Sh "3" R 0.3 1.4 0 0 0
+Sh "12" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.25 -4.3
 $EndPAD
 $PAD
-Sh "12" R 0.3 1.4 0 0 0
+Sh "3" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -2.25 -4.3
 $EndPAD
 $PAD
-Sh "2" R 0.3 1.4 0 0 0
+Sh "13" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.75 -4.3
 $EndPAD
 $PAD
-Sh "1" R 0.3 1.4 0 0 0
+Sh "14" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 3.25 -4.3
 $EndPAD
 $PAD
-Sh "13" R 0.3 1.4 0 0 0
+Sh "2" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -2.75 -4.3
 $EndPAD
 $PAD
-Sh "14" R 0.3 1.4 0 0 0
+Sh "1" R 0.3 1.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
