@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Mon 18 Nov 2013 10:57:12 PM CET
+PCBNEW-LibModule-V1  Mon 18 Nov 2013 11:49:41 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -19,9 +19,11 @@ TPIC6C595
 ULN2803
 UX60-MB-5S8
 hole_2.2mm
+hole_2.4mm
 hole_4.6mm
 hole_4.8mm
 hole_5.5mm
+hole_5.7
 hole_5.7mm
 pin_array_8x1
 vertical_pcb
@@ -1218,6 +1220,22 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE hole_2.2mm
+$MODULE hole_2.4mm
+Po 0 0 0 15 528A9981 00000000 ~~
+Li hole_2.4mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.4 1 1 0 0.15 N I 21 N "hole 2.4mm"
+T1 0 2.4 1 1 0 0.15 N I 21 N "VAL**"
+$PAD
+Sh "" C 2.4 2.4 0 0 0
+Dr 2.4 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE hole_2.4mm
 $MODULE hole_4.6mm
 Po 0 0 0 15 5264DDEA 00000000 ~~
 Li hole_4.6mm
@@ -1235,7 +1253,7 @@ Po 0 0
 $EndPAD
 $EndMODULE hole_4.6mm
 $MODULE hole_4.8mm
-Po 0 0 0 15 52644F22 00000000 ~~
+Po 0 0 0 15 528A923D 00000000 ~~
 Li hole_4.8mm
 Sc 0
 AR 
@@ -1266,6 +1284,22 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE hole_5.5mm
+$MODULE hole_5.7
+Po 0 0 0 15 528A984F 00000000 ~~
+Li hole_5.7
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.7 1 1 0 0.15 N I 21 N "hole 5.7mm"
+T1 0 3.8 1 1 0 0.15 N I 21 N "VAL**"
+$PAD
+Sh "" C 5.7 5.7 0 0 0
+Dr 5.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE hole_5.7
 $MODULE hole_5.7mm
 Po 0 0 0 15 52644F02 00000000 ~~
 Li hole_5.7mm
