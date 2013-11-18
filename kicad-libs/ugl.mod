@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Sun 17 Nov 2013 08:58:41 PM CET
+PCBNEW-LibModule-V1  Mon 18 Nov 2013 07:44:24 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -117,7 +117,7 @@ Po 3 0
 $EndPAD
 $EndMODULE 2-SMD
 $MODULE 5555154-2
-Po 0 0 0 15 52651E3F 00000000 ~~
+Po 0 0 0 15 528A5FF7 00000000 ~~
 Li 5555154-2
 Sc 0
 AR 
@@ -129,14 +129,14 @@ DS 7.1 -18.54 -7.1 -18.54 0.15 21
 DS -7.1 -18.54 -7.1 0 0.15 21
 DS -7.1 0 7.1 0 0.15 21
 $PAD
-Sh "" O 1.1 2.3 0 0 0
+Sh "5" O 1.1 2.3 0 0 0
 Dr 0.6 0 0 O 0.6 1.8
 At STD N 00E0FFFF
 Ne 0 ""
 Po -6.86 -5.08
 $EndPAD
 $PAD
-Sh "" O 1.1 2.3 0 0 0
+Sh "5" O 1.1 2.3 0 0 0
 Dr 0.6 0 0 O 0.6 1.8
 At STD N 00E0FFFF
 Ne 0 ""
