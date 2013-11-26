@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Tue 26 Nov 2013 03:41:51 AM CET
+PCBNEW-LibModule-V1  Tue 26 Nov 2013 03:53:31 AM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -20,6 +20,7 @@ ULN2803
 UX60-MB-5S8
 hole_2.2mm
 hole_2.4mm
+hole_4.5mm
 hole_4.6mm
 hole_4.8mm
 hole_5.5mm
@@ -1236,6 +1237,22 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE hole_2.4mm
+$MODULE hole_4.5mm
+Po 0 0 0 15 52940D04 00000000 ~~
+Li hole_4.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.7 1 1 0 0.15 N I 21 N "hole 4.5mm"
+T1 0 3.8 1 1 0 0.15 N I 21 N "VAL**"
+$PAD
+Sh "" C 4.5 4.5 0 0 0
+Dr 4.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE hole_4.5mm
 $MODULE hole_4.6mm
 Po 0 0 0 15 5264DDEA 00000000 ~~
 Li hole_4.6mm
