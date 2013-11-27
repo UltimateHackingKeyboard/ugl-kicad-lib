@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Wed 27 Nov 2013 12:14:53 AM CET
+PCBNEW-LibModule-V1  Wed 27 Nov 2013 12:41:32 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -1411,17 +1411,17 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE pin_array_8x1
 $MODULE vertical_pcb
-Po 0 0 0 15 52952B6B 00000000 ~~
+Po 0 0 0 15 5295DA69 00000000 ~~
 Li vertical_pcb
 Sc 0
 AR 
 Op 0 0 0
 T0 -3.1 0 1 1 900 0.15 N V 21 N "REF**"
 T1 2.3 0 1 1 900 0.15 N V 21 N "VAL**"
-DS -0.5 -8.3 -0.5 10.4 0.15 21
-DS -0.5 10.4 -1.5 10.4 0.15 21
-DS -1.5 10.4 -1.5 -8.3 0.15 21
-DS -1.5 -8.3 -0.5 -8.3 0.15 21
+DS -0.3 -8.27 -0.3 10.43 0.15 21
+DS -0.3 10.43 -1.3 10.43 0.15 21
+DS -1.3 10.43 -1.3 -8.27 0.15 21
+DS -1.3 -8.27 -0.3 -8.27 0.15 21
 $PAD
 Sh "5" C 1 1 0 0 0
 Dr 1 0 0
