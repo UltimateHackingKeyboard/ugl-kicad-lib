@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Wed 27 Nov 2013 12:41:32 PM CET
+PCBNEW-LibModule-V1  Fri 29 Nov 2013 01:33:41 AM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -24,7 +24,6 @@ hole_4.5mm
 hole_4.6mm
 hole_4.8mm
 hole_5.5mm
-hole_5.7
 hole_5.7mm
 pin_array_8x1
 vertical_pcb
@@ -1301,22 +1300,6 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE hole_5.5mm
-$MODULE hole_5.7
-Po 0 0 0 15 528A984F 00000000 ~~
-Li hole_5.7
-Sc 0
-AR 
-Op 0 0 0
-T0 0 -3.7 1 1 0 0.15 N I 21 N "hole 5.7mm"
-T1 0 3.8 1 1 0 0.15 N I 21 N "VAL**"
-$PAD
-Sh "" C 5.7 5.7 0 0 0
-Dr 5.7 0 0
-At STD N 00E0FFFF
-Ne 0 ""
-Po 0 0
-$EndPAD
-$EndMODULE hole_5.7
 $MODULE hole_5.7mm
 Po 0 0 0 15 52644F02 00000000 ~~
 Li hole_5.7mm
