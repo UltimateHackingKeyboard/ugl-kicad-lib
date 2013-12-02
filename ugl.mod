@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Sun 01 Dec 2013 11:36:48 AM CET
+PCBNEW-LibModule-V1  Mon 02 Dec 2013 10:30:03 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -30,6 +30,7 @@ hole_5.5mm
 hole_5.7mm
 pin_array_8x1
 vertical_pcb
+vertical_pcb_pad
 $EndINDEX
 $MODULE 009155005541006
 Po 0 0 0 15 5265774A 00000000 ~~
@@ -436,7 +437,7 @@ Po 2.71 -1.905
 $EndPAD
 $EndMODULE HN58X25-SOP8
 $MODULE MCFTE-3C-V
-Po 0 0 0 15 529B113A 00000000 ~~
+Po 0 0 0 15 529CFBCB 00000000 ~~
 Li MCFTE-3C-V
 Sc 0
 AR 
@@ -484,6 +485,13 @@ Dr 0.9 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
+$EndPAD
+$PAD
+Sh "" C 1.25 1.25 0 0 0
+Dr 1.25 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
 $EndPAD
 $EndMODULE MCFTE-3C-V
 $MODULE MD2-40ST
@@ -1697,4 +1705,20 @@ Ne 0 ""
 Po 0 2.54
 $EndPAD
 $EndMODULE vertical_pcb
+$MODULE vertical_pcb_pad
+Po 0 0 0 15 529BBFA3 00000000 ~~
+Li vertical_pcb_pad
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.3 1.524 1.524 0 0.3048 N I 21 N "REF**"
+T1 0 2.9 1.524 1.524 0 0.3048 N I 21 N "VAL**"
+$PAD
+Sh "1" R 1.4 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE vertical_pcb_pad
 $EndLIBRARY
