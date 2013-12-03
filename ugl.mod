@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Mon 02 Dec 2013 10:30:03 PM CET
+PCBNEW-LibModule-V1  Tue 03 Dec 2013 03:36:33 AM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -1414,7 +1414,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE ULN2803
 $MODULE UX60-MB-5S8
-Po 0 0 0 15 52940A6A 00000000 ~~
+Po 0 0 0 15 529D43A1 00000000 ~~
 Li UX60-MB-5S8
 Sc 0
 AR 
@@ -1466,6 +1466,41 @@ Dr 0.8001 0 0 O 0.8001 1.69926
 At STD N 00E0FFFF
 Ne 0 ""
 Po -3.64998 3.29946
+$EndPAD
+$PAD
+Sh "1" R 0.5 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.6 -2.25
+$EndPAD
+$PAD
+Sh "2" R 0.5 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.8 -2.25
+$EndPAD
+$PAD
+Sh "3" R 0.5 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -2.25
+$EndPAD
+$PAD
+Sh "4" R 0.5 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.8 -2.25
+$EndPAD
+$PAD
+Sh "5" R 0.5 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.6 -2.25
 $EndPAD
 $EndMODULE UX60-MB-5S8
 $MODULE hole_2.2mm
