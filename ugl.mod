@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Sat 07 Dec 2013 03:36:13 PM CET
+PCBNEW-LibModule-V1  Sat 07 Dec 2013 06:12:42 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -716,7 +716,7 @@ Po 3.15 -2.925
 $EndPAD
 $EndMODULE PCA9634
 $MODULE SFV14R-2STE1HLF
-Po 0 0 0 15 52A33209 00000000 ~~
+Po 0 0 0 15 52A356FD 00000000 ~~
 Li SFV14R-2STE1HLF
 Sc 0
 AR 
@@ -733,6 +733,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -1.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "5" R 0.3 1.4 0 0 0
@@ -740,6 +741,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -1.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "6" R 0.3 1.4 0 0 0
@@ -747,6 +749,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -0.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "7" R 0.3 1.4 0 0 0
@@ -754,6 +757,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -0.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "8" R 0.3 1.4 0 0 0
@@ -761,6 +765,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "9" R 0.3 1.4 0 0 0
@@ -768,6 +773,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "10" R 0.3 1.4 0 0 0
@@ -775,6 +781,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 1.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "11" R 0.3 1.4 0 0 0
@@ -782,6 +789,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 1.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "12" R 0.3 1.4 0 0 0
@@ -789,6 +797,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "3" R 0.3 1.4 0 0 0
@@ -796,6 +805,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -2.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "13" R 0.3 1.4 0 0 0
@@ -803,6 +813,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "14" R 0.3 1.4 0 0 0
@@ -810,6 +821,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 3.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "2" R 0.3 1.4 0 0 0
@@ -817,6 +829,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -2.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "1" R 0.3 1.4 0 0 0
@@ -824,6 +837,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -3.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "" R 2.65 2.3 0 0 0
@@ -841,7 +855,7 @@ Po 5 -3.05
 $EndPAD
 $EndMODULE SFV14R-2STE1HLF
 $MODULE SFV18R-2STE1HLF
-Po 0 0 0 15 52A33257 00000000 ~~
+Po 0 0 0 15 52A35456 00000000 ~~
 Li SFV18R-2STE1HLF
 Sc 0
 AR 
@@ -858,6 +872,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 4.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "17" R 0.3 1.4 0 0 0
@@ -865,6 +880,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 3.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "1" R 0.3 1.4 0 0 0
@@ -872,6 +888,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -4.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "2" R 0.3 1.4 0 0 0
@@ -879,6 +896,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -3.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "6" R 0.3 1.4 0 0 0
@@ -886,6 +904,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -1.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "7" R 0.3 1.4 0 0 0
@@ -893,6 +912,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -1.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "8" R 0.3 1.4 0 0 0
@@ -900,6 +920,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -0.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "9" R 0.3 1.4 0 0 0
@@ -907,6 +928,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -0.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "10" R 0.3 1.4 0 0 0
@@ -914,6 +936,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "11" R 0.3 1.4 0 0 0
@@ -921,6 +944,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "12" R 0.3 1.4 0 0 0
@@ -928,6 +952,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 1.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "13" R 0.3 1.4 0 0 0
@@ -935,6 +960,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 1.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "14" R 0.3 1.4 0 0 0
@@ -942,6 +968,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "5" R 0.3 1.4 0 0 0
@@ -949,6 +976,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -2.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "15" R 0.3 1.4 0 0 0
@@ -956,6 +984,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "16" R 0.3 1.4 0 0 0
@@ -963,6 +992,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 3.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "4" R 0.3 1.4 0 0 0
@@ -970,6 +1000,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -2.75 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "3" R 0.3 1.4 0 0 0
@@ -977,6 +1008,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -3.25 -4.3
+.LocalClearance 0.1778
 $EndPAD
 $PAD
 Sh "" R 2.65 2.3 0 0 0
