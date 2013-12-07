@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Tue 03 Dec 2013 05:13:06 PM CET
+PCBNEW-LibModule-V1  Sat 07 Dec 2013 03:36:13 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -12,6 +12,7 @@ MCFTE-3C-V
 MD2-40ST
 PCA9634
 SFV14R-2STE1HLF
+SFV18R-2STE1HLF
 SM0603
 SM0603_Diode
 SM0805
@@ -715,7 +716,7 @@ Po 3.15 -2.925
 $EndPAD
 $EndMODULE PCA9634
 $MODULE SFV14R-2STE1HLF
-Po 0 0 0 15 52891FED 00000000 ~~
+Po 0 0 0 15 52A33209 00000000 ~~
 Li SFV14R-2STE1HLF
 Sc 0
 AR 
@@ -725,7 +726,7 @@ T1 0 1.2 1 1 0 0.15 N I 21 N "VAL**"
 DS 6.4 -4.2 6.4 0 0.15 21
 DS -6.4 -4.2 -6.4 0 0.15 21
 DS -6.4 -4.2 6.4 -4.2 0.15 21
-DS -6.35 0 6.35 0 0.15 21
+DS -6.4 0 6.4 0 0.15 21
 $PAD
 Sh "4" R 0.3 1.4 0 0 0
 Dr 0 0 0
@@ -839,6 +840,159 @@ Ne 0 ""
 Po 5 -3.05
 $EndPAD
 $EndMODULE SFV14R-2STE1HLF
+$MODULE SFV18R-2STE1HLF
+Po 0 0 0 15 52A33257 00000000 ~~
+Li SFV18R-2STE1HLF
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -6.3 1 1 0 0.15 N V 21 N "REF**"
+T1 0 1.2 1 1 0 0.15 N I 21 N "VAL**"
+DS 7.4 -4.2 7.4 0 0.15 21
+DS -7.4 -4.2 -7.4 0 0.15 21
+DS -7.4 -4.2 7.4 -4.2 0.15 21
+DS -7.4 0 7.4 0 0.15 21
+$PAD
+Sh "18" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.25 -4.3
+$EndPAD
+$PAD
+Sh "17" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.75 -4.3
+$EndPAD
+$PAD
+Sh "1" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.25 -4.3
+$EndPAD
+$PAD
+Sh "2" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.75 -4.3
+$EndPAD
+$PAD
+Sh "6" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.75 -4.3
+$EndPAD
+$PAD
+Sh "7" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25 -4.3
+$EndPAD
+$PAD
+Sh "8" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 -4.3
+$EndPAD
+$PAD
+Sh "9" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.25 -4.3
+$EndPAD
+$PAD
+Sh "10" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.25 -4.3
+$EndPAD
+$PAD
+Sh "11" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 -4.3
+$EndPAD
+$PAD
+Sh "12" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25 -4.3
+$EndPAD
+$PAD
+Sh "13" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.75 -4.3
+$EndPAD
+$PAD
+Sh "14" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.25 -4.3
+$EndPAD
+$PAD
+Sh "5" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.25 -4.3
+$EndPAD
+$PAD
+Sh "15" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.75 -4.3
+$EndPAD
+$PAD
+Sh "16" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.25 -4.3
+$EndPAD
+$PAD
+Sh "4" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.75 -4.3
+$EndPAD
+$PAD
+Sh "3" R 0.3 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.25 -4.3
+$EndPAD
+$PAD
+Sh "" R 2.65 2.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 -3.05
+$EndPAD
+$PAD
+Sh "" R 2.65 2.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 -3.05
+$EndPAD
+$EndMODULE SFV18R-2STE1HLF
 $MODULE SM0603
 Po 0 0 0 15 52878A91 00000000 ~~
 Li SM0603
