@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Sun 08 Dec 2013 11:00:49 AM CET
+PCBNEW-LibModule-V1  Tue 10 Dec 2013 11:40:14 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -34,6 +34,8 @@ hole_5.7mm
 pin_array_8x1
 vertical_pcb
 vertical_pcb_pad
+via_20_13mil
+via_35_25mil
 $EndINDEX
 $MODULE 009155005541006
 Po 0 0 0 15 5265774A 00000000 ~~
@@ -2045,4 +2047,36 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE vertical_pcb_pad
+$MODULE via_20_13mil
+Po 0 0 0 15 52A79840 00000000 ~~
+Li via_20_13mil
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.8 1 1 0 0.15 N I 21 N "via_20_13mil"
+T1 0 1.9 1 1 0 0.15 N I 21 N "VAL**"
+$PAD
+Sh "1" C 0.508 0.508 0 0 0
+Dr 0.3302 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE via_20_13mil
+$MODULE via_35_25mil
+Po 0 0 0 15 52A4E8E9 00000000 ~~
+Li via_35_25mil
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.8 1 1 0 0.15 N I 21 N "via_35_25mil"
+T1 0 1.9 1 1 0 0.15 N I 21 N "VAL**"
+$PAD
+Sh "1" C 0.889 0.889 0 0 0
+Dr 0.635 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE via_35_25mil
 $EndLIBRARY
