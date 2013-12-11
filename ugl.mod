@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Wed 11 Dec 2013 10:22:33 PM CET
+PCBNEW-LibModule-V1  Wed 11 Dec 2013 11:48:13 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -162,12 +162,12 @@ Po -7.15 -1.8
 $EndPAD
 $EndMODULE 009155005541006_uhk
 $MODULE 2-SMD
-Po 0 0 0 15 52682FC6 00000000 ~~
+Po 0 0 0 15 52A8EBAB 00000000 ~~
 Li 2-SMD
 Sc 0
 AR 
 Op 0 0 0
-T0 0 -2.7 1 1 0 0.15 N I 21 N "2-SMD"
+T0 0 -2.7 1 1 0 0.15 N I 21 N "REF**"
 T1 0 2.8 1 1 0 0.15 N V 21 N "VAL**"
 DS 2.5 1.6 2.5 1.3 0.15 21
 DS 2.5 -1.6 2.5 -1.3 0.15 21
@@ -180,14 +180,14 @@ Sh "1" R 2 2.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -3 0
+Po -2 0
 $EndPAD
 $PAD
 Sh "2" R 2 2.4 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 3 0
+Po 2 0
 $EndPAD
 $EndMODULE 2-SMD
 $MODULE 5555154-2
