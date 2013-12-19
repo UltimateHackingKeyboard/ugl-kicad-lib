@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Wed 18 Dec 2013 06:29:48 PM CET
+PCBNEW-LibModule-V1  Thu 19 Dec 2013 07:29:34 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -35,6 +35,7 @@ hole_4.8mm
 hole_5.5mm
 hole_5.7mm
 isp6pin
+isp6pin_staggered
 pin_array_8x1
 vertical_pcb
 vertical_pcb_pad
@@ -2099,6 +2100,70 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE isp6pin
+$MODULE isp6pin_staggered
+Po 0 0 0 15 52B33563 00000000 ~~
+Li isp6pin_staggered
+Cd 2x3 AVR ISP pin header
+Kw CONN
+Sc 0
+AR /5130F33C
+Op 0 0 0
+T0 0 -3.7 1.016 1.016 0 0.2032 N V 21 N "REF**"
+T1 0 3.81 1.016 1.016 0 0.2032 N I 21 N "VAL**"
+DS 1.27 2.54 3.81 2.54 0.2032 21
+DS -3.81 2.54 -1.27 2.54 0.2032 21
+DS -3.81 -2.54 3.81 -2.54 0.2032 21
+DS 3.81 -2.54 3.81 2.54 0.2032 21
+DS -3.81 2.54 -3.81 -2.54 0.2032 21
+$PAD
+Sh "1" R 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 1 "/MISO"
+Po -2.667 1.397
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 6 "VCC"
+Po -2.667 -1.397
+$EndPAD
+$PAD
+Sh "3" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 4 "/SCK"
+Po 0 1.016
+$EndPAD
+$PAD
+Sh "4" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 2 "/MOSI"
+Po 0 -1.016
+$EndPAD
+$PAD
+Sh "5" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 3 "/RESET"
+Po 2.667 1.397
+$EndPAD
+$PAD
+Sh "6" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 5 "GND"
+Po 2.667 -1.397
+$EndPAD
+$SHAPE3D
+Na "pin_array/pins_array_3x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE isp6pin_staggered
 $MODULE pin_array_8x1
 Po 0 0 0 15 503A9F40 00000000 ~~
 Li pin_array_8x1
