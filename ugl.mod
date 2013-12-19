@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Thu 19 Dec 2013 07:29:34 PM CET
+PCBNEW-LibModule-V1  Thu 19 Dec 2013 08:06:14 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -39,6 +39,7 @@ isp6pin_staggered
 pin_array_8x1
 vertical_pcb
 vertical_pcb_pad
+vertical_pcb_staggered
 via_20_13mil
 via_35_25mil
 $EndINDEX
@@ -2305,6 +2306,54 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE vertical_pcb_pad
+$MODULE vertical_pcb_staggered
+Po 0 0 0 15 52B34376 00000000 ~~
+Li vertical_pcb_staggered
+Sc 0
+AR 
+Op 0 0 0
+T0 -3.1 0 1 1 900 0.15 N V 21 N "REF**"
+T1 2.3 0 1 1 900 0.15 N I 21 N "VAL**"
+DS -0.3 -8.27 -0.3 10.43 0.15 21
+DS -0.3 10.43 -1.3 10.43 0.15 21
+DS -1.3 10.43 -1.3 -8.27 0.15 21
+DS -1.3 -8.27 -0.3 -8.27 0.15 21
+$PAD
+Sh "5" C 1 1 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.127 5.08
+$EndPAD
+$PAD
+Sh "1" C 1 1 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.127 -5.08
+$EndPAD
+$PAD
+Sh "2" C 1 1 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.127 -2.54
+$EndPAD
+$PAD
+Sh "3" C 1 1 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.127 0
+$EndPAD
+$PAD
+Sh "4" C 1 1 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.127 2.54
+$EndPAD
+$EndMODULE vertical_pcb_staggered
 $MODULE via_20_13mil
 Po 0 0 0 15 52A79840 00000000 ~~
 Li via_20_13mil
