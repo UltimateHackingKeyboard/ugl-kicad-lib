@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Tue 24 Dec 2013 04:54:27 PM CET
+PCBNEW-LibModule-V1  Tue 24 Dec 2013 05:09:46 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -2490,7 +2490,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE pin_array_8x1
 $MODULE vertical_pcb
-Po 0 0 0 15 52AAE04E 00000000 ~~
+Po 0 0 0 15 52B9B1C9 00000000 ~~
 Li vertical_pcb
 Sc 0
 AR 
@@ -2502,35 +2502,35 @@ DS -0.3 10.43 -1.3 10.43 0.15 21
 DS -1.3 10.43 -1.3 -8.27 0.15 21
 DS -1.3 -8.27 -0.3 -8.27 0.15 21
 $PAD
-Sh "5" C 1 1 0 0 0
+Sh "5" C 1.8 1.8 0 0 0
 Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 5.08
 $EndPAD
 $PAD
-Sh "1" C 1 1 0 0 0
+Sh "1" C 1.8 1.8 0 0 0
 Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 -5.08
 $EndPAD
 $PAD
-Sh "2" C 1 1 0 0 0
+Sh "2" C 1.8 1.8 0 0 0
 Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 -2.54
 $EndPAD
 $PAD
-Sh "3" C 1 1 0 0 0
+Sh "3" C 1.8 1.8 0 0 0
 Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
 $EndPAD
 $PAD
-Sh "4" C 1 1 0 0 0
+Sh "4" C 1.8 1.8 0 0 0
 Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -2554,7 +2554,7 @@ Po 0 0
 $EndPAD
 $EndMODULE vertical_pcb_pad
 $MODULE vertical_pcb_staggered
-Po 0 0 0 15 52B34376 00000000 ~~
+Po 0 0 0 15 52B9B171 00000000 ~~
 Li vertical_pcb_staggered
 Sc 0
 AR 
@@ -2566,35 +2566,35 @@ DS -0.3 10.43 -1.3 10.43 0.15 21
 DS -1.3 10.43 -1.3 -8.27 0.15 21
 DS -1.3 -8.27 -0.3 -8.27 0.15 21
 $PAD
-Sh "5" C 1 1 0 0 0
+Sh "5" C 1.8 1.8 0 0 0
 Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0.127 5.08
 $EndPAD
 $PAD
-Sh "1" C 1 1 0 0 0
+Sh "1" C 1.8 1.8 0 0 0
 Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0.127 -5.08
 $EndPAD
 $PAD
-Sh "2" C 1 1 0 0 0
+Sh "2" C 1.8 1.8 0 0 0
 Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -0.127 -2.54
 $EndPAD
 $PAD
-Sh "3" C 1 1 0 0 0
+Sh "3" C 1.8 1.8 0 0 0
 Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0.127 0
 $EndPAD
 $PAD
-Sh "4" C 1 1 0 0 0
+Sh "4" C 1.8 1.8 0 0 0
 Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
