@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Tue 24 Dec 2013 02:47:15 PM CET
+PCBNEW-LibModule-V1  Tue 24 Dec 2013 02:56:57 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -2173,7 +2173,7 @@ Po 1.6 -2.25
 $EndPAD
 $EndMODULE UX60-MB-5S8
 $MODULE hole_2.2mm
-Po 0 0 0 15 52651E9B 00000000 ~~
+Po 0 0 0 15 52B9921D 00000000 ~~
 Li hole_2.2mm
 Sc 0
 AR 
@@ -2183,13 +2183,13 @@ T1 0 2.5 1 1 0 0.15 N I 21 N "VAL**"
 $PAD
 Sh "" C 2.2 2.2 0 0 0
 Dr 2.2 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE hole_2.2mm
 $MODULE hole_2.4mm
-Po 0 0 0 15 528A9981 00000000 ~~
+Po 0 0 0 15 52B99230 00000000 ~~
 Li hole_2.4mm
 Sc 0
 AR 
@@ -2199,13 +2199,13 @@ T1 0 2.4 1 1 0 0.15 N I 21 N "VAL**"
 $PAD
 Sh "" C 2.4 2.4 0 0 0
 Dr 2.4 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE hole_2.4mm
 $MODULE hole_4.5mm
-Po 0 0 0 15 52940D04 00000000 ~~
+Po 0 0 0 15 52B9923E 00000000 ~~
 Li hole_4.5mm
 Sc 0
 AR 
@@ -2215,13 +2215,13 @@ T1 0 3.8 1 1 0 0.15 N I 21 N "VAL**"
 $PAD
 Sh "" C 4.5 4.5 0 0 0
 Dr 4.5 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE hole_4.5mm
 $MODULE hole_4.6mm
-Po 0 0 0 15 5264DDEA 00000000 ~~
+Po 0 0 0 15 52B99251 00000000 ~~
 Li hole_4.6mm
 Sc 0
 AR 
@@ -2231,13 +2231,13 @@ T1 0 3.8 1 1 0 0.15 N I 21 N "VAL**"
 $PAD
 Sh "" C 4.6 4.6 0 0 0
 Dr 4.6 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE hole_4.6mm
 $MODULE hole_4.8mm
-Po 0 0 0 15 528A923D 00000000 ~~
+Po 0 0 0 15 52B99261 00000000 ~~
 Li hole_4.8mm
 Sc 0
 AR 
@@ -2247,13 +2247,13 @@ T1 0 3.8 1 1 0 0.15 N I 21 N "VAL**"
 $PAD
 Sh "" C 4.8 4.8 0 0 0
 Dr 4.8 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE hole_4.8mm
 $MODULE hole_5.5mm
-Po 0 0 0 15 5264DDAE 00000000 ~~
+Po 0 0 0 15 52B9926E 00000000 ~~
 Li hole_5.5mm
 Sc 0
 AR 
@@ -2263,13 +2263,13 @@ T1 0 4.3 1 1 0 0.15 N I 21 N "VAL**"
 $PAD
 Sh "" C 5.5 5.5 0 0 0
 Dr 5.5 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE hole_5.5mm
 $MODULE hole_5.7mm
-Po 0 0 0 15 52644F02 00000000 ~~
+Po 0 0 0 15 52B99283 00000000 ~~
 Li hole_5.7mm
 Sc 0
 AR 
@@ -2279,7 +2279,7 @@ T1 0 4.3 1 1 0 0.15 N I 21 N "VAL**"
 $PAD
 Sh "" C 5.7 5.7 0 0 0
 Dr 5.7 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 0 0
 $EndPAD
