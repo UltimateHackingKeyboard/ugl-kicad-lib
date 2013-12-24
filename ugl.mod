@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Tue 24 Dec 2013 04:50:01 PM CET
+PCBNEW-LibModule-V1  Tue 24 Dec 2013 04:54:27 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -1760,7 +1760,7 @@ Po 1.1811 0
 $EndPAD
 $EndMODULE SOD-123_Diode
 $MODULE SS-5GLD
-Po 0 0 0 15 52AA5EC7 00000000 ~~
+Po 0 0 0 15 52B9AE31 00000000 ~~
 Li SS-5GLD
 Sc 0
 AR 
@@ -1776,21 +1776,21 @@ DS 9.9 -3.2 9.9 3.2 0.15 21
 DS 9.9 3.2 -10.4 3.2 0.15 21
 DS -10.4 3.2 -10.4 -3.2 0.15 21
 $PAD
-Sh "1" C 1.75 1.75 0 0 0
+Sh "1" C 2.35 2.35 0 0 0
 Dr 1.35 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -8.3 0
 $EndPAD
 $PAD
-Sh "3" C 1.75 1.75 0 0 0
+Sh "3" C 2.35 2.35 0 0 0
 Dr 1.35 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0.5 0
 $EndPAD
 $PAD
-Sh "2" C 1.75 1.75 0 0 0
+Sh "2" C 2.35 2.35 0 0 0
 Dr 1.35 0 0
 At STD N 00E0FFFF
 Ne 0 ""
