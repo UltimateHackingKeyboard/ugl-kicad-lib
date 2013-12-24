@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Tue 24 Dec 2013 05:18:31 PM CET
+PCBNEW-LibModule-V1  Tue 24 Dec 2013 08:01:50 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -2078,7 +2078,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE ULN2803
 $MODULE UX60-MB-5S8
-Po 0 0 0 15 52B9B3CF 00000000 ~~
+Po 0 0 0 15 52B9DA1B 00000000 ~~
 Li UX60-MB-5S8
 Sc 0
 AR 
@@ -2104,28 +2104,28 @@ Ne 0 ""
 Po 1.75006 0
 $EndPAD
 $PAD
-Sh "5" O 1.8 2.7 0 0 0
+Sh "5" O 1.6 2.5 0 0 0
 Dr 0.8 0 0 O 0.8 1.7
 At STD N 00E0FFFF
 Ne 0 ""
 Po -3.64998 -1.99898
 $EndPAD
 $PAD
-Sh "5" O 1.8 2.7 0 0 0
+Sh "5" O 1.6 2.5 0 0 0
 Dr 0.8 0 0 O 0.8 1.7
 At STD N 00E0FFFF
 Ne 0 ""
 Po 3.64998 -1.99898
 $EndPAD
 $PAD
-Sh "5" O 1.8 2.7 0 0 0
+Sh "5" O 1.6 2.5 0 0 0
 Dr 0.8 0 0 O 0.8 1.7
 At STD N 00E0FFFF
 Ne 0 ""
 Po 3.64998 3.29946
 $EndPAD
 $PAD
-Sh "5" O 1.8 2.7 0 0 0
+Sh "5" O 1.6 2.5 0 0 0
 Dr 0.8 0 0 O 0.8 1.7
 At STD N 00E0FFFF
 Ne 0 ""
