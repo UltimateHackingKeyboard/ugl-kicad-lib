@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Thu 19 Dec 2013 08:32:51 PM CET
+PCBNEW-LibModule-V1  Tue 24 Dec 2013 02:47:15 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -648,7 +648,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE ATMEGA_TQFP32
 $MODULE Cherry_MX
-Po 0 0 0 15 52AA5F26 00000000 ~~
+Po 0 0 0 15 52B99060 00000000 ~~
 Li Cherry_MX
 Sc 0
 AR 
@@ -666,20 +666,20 @@ DS -7.62 7.62 -7.62 -7.62 0.15 21
 $PAD
 Sh "" C 4 4 0 0 0
 Dr 4 0 0
-At STD N 00E0FFFF
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 0 0
 $EndPAD
 $PAD
-Sh "2" C 1.69926 1.69926 0 0 0
-Dr 1.50114 0 0
+Sh "2" C 2.5 2.5 0 0 0
+Dr 1.5 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -3.81 -2.54
 $EndPAD
 $PAD
-Sh "1" C 1.69926 1.69926 0 0 0
-Dr 1.50114 0 0
+Sh "1" C 2.5 2.5 0 0 0
+Dr 1.5 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 -5.08
