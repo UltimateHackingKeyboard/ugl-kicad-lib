@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Tue 24 Dec 2013 03:19:24 PM CET
+PCBNEW-LibModule-V1  Tue 24 Dec 2013 04:50:01 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -196,7 +196,7 @@ Po 2 0
 $EndPAD
 $EndMODULE 2-SMD
 $MODULE 5555154-2
-Po 0 0 0 15 52B99734 00000000 ~~
+Po 0 0 0 15 52B9ACF2 00000000 ~~
 Li 5555154-2
 Sc 0
 AR 
@@ -208,14 +208,14 @@ DS 7.1 -18.54 -7.1 -18.54 0.15 21
 DS -7.1 -18.54 -7.1 0 0.15 21
 DS -7.1 0 7.1 0 0.15 21
 $PAD
-Sh "5" O 1.1 2.3 0 0 0
+Sh "5" O 1.6 2.8 0 0 0
 Dr 0.6 0 0 O 0.6 1.8
 At STD N 00E0FFFF
 Ne 0 ""
 Po -6.86 -5.08
 $EndPAD
 $PAD
-Sh "5" O 1.1 2.3 0 0 0
+Sh "5" O 1.6 2.8 0 0 0
 Dr 0.6 0 0 O 0.6 1.8
 At STD N 00E0FFFF
 Ne 0 ""
@@ -236,28 +236,28 @@ Ne 0 ""
 Po 5.08 -8.13
 $EndPAD
 $PAD
-Sh "4" C 1.39 1.39 0 0 0
+Sh "4" C 1.69 1.69 0 0 0
 Dr 0.89 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -1.905 -14.48
 $EndPAD
 $PAD
-Sh "2" C 1.39 1.39 0 0 0
+Sh "2" C 1.69 1.69 0 0 0
 Dr 0.89 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0.635 -14.48
 $EndPAD
 $PAD
-Sh "3" C 1.39 1.39 0 0 0
+Sh "3" C 1.69 1.69 0 0 0
 Dr 0.89 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -0.635 -17.02
 $EndPAD
 $PAD
-Sh "1" C 1.39 1.39 0 0 0
+Sh "1" C 1.69 1.69 0 0 0
 Dr 0.89 0 0
 At STD N 00E0FFFF
 Ne 0 ""
