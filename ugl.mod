@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Wed 12 Mar 2014 01:36:53 PM CET
+PCBNEW-LibModule-V1  Wed 12 Mar 2014 04:36:46 PM CET
 # encoding utf-8
 Units mm
 $INDEX
@@ -41,7 +41,7 @@ pin_array_8x1
 vertical_pcb
 vertical_pcb_pad
 vertical_pcb_staggered
-via_20_13mil
+via_24_14mil
 via_35_25mil
 $EndINDEX
 $MODULE 009155005541006
@@ -2602,23 +2602,23 @@ Ne 0 ""
 Po -0.127 2.54
 $EndPAD
 $EndMODULE vertical_pcb_staggered
-$MODULE via_20_13mil
-Po 0 0 0 15 532054E3 00000000 ~~
-Li via_20_13mil
+$MODULE via_24_14mil
+Po 0 0 0 15 53206E74 00000000 ~~
+Li via_24_14mil
 Sc 0
 AR 
 Op 0 0 0
-T0 0 -1.8 1 1 0 0.15 N I 21 N "via_20_13mil"
+T0 0 -1.8 1 1 0 0.15 N I 21 N "via_24_14mil"
 T1 0 1.9 1 1 0 0.15 N I 21 N "VAL**"
 $PAD
-Sh "1" C 0.508 0.508 0 0 0
-Dr 0.3302 0 0
+Sh "1" C 0.6096 0.6096 0 0 0
+Dr 0.3556 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
 .SolderMask -1
 $EndPAD
-$EndMODULE via_20_13mil
+$EndMODULE via_24_14mil
 $MODULE via_35_25mil
 Po 0 0 0 15 52D324FA 00000000 ~~
 Li via_35_25mil
