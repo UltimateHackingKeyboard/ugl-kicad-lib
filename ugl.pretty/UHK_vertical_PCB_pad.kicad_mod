@@ -1,0 +1,9 @@
+(module UHK_vertical_PCB_pad (layer F.Cu) (tedit 53DAAF01)
+  (fp_text reference REF** (at 0 -3.3) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_text value VAL** (at 0 2.9) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (pad "" smd rect (at 0 0) (size 1.4 2.1) (layers F.Cu F.Paste F.Mask))
+)
