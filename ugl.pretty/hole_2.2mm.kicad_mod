@@ -1,5 +1,5 @@
-(module hole_2.2mm (layer F.Cu) (tedit 52B9921D)
-  (fp_text reference hole_2.2mm (at 0 -2.4) (layer F.SilkS) hide
+(module hole_2.2mm (layer F.Cu) (tedit 53F4BAEF)
+  (fp_text reference "hole 2.2mm" (at 0 -2.4) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0 2.5) (layer F.SilkS) hide

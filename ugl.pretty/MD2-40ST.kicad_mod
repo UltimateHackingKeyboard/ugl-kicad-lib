@@ -1,5 +1,5 @@
-(module MD2-40ST (layer F.Cu) (tedit 502C2B9B)
-  (fp_text reference MD2-40ST (at 0 -7.8994) (layer F.SilkS)
+(module MD2-40ST (layer F.Cu) (tedit 53F4BA81)
+  (fp_text reference REF** (at 0 -7.8994) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
   (fp_text value VAL** (at 0 8.19912) (layer F.SilkS)
