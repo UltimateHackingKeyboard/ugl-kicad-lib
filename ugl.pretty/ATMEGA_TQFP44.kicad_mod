@@ -1,9 +1,9 @@
-(module ATMEGA_TQFP44 (layer F.Cu) (tedit 53FC7033)
+(module ATMEGA_TQFP44 (layer F.Cu) (tedit 5407EE69)
   (attr smd)
   (fp_text reference REF** (at 0 -8.636) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.2032)))
   )
-  (fp_text value VAL** (at 0 8.636) (layer F.SilkS)
+  (fp_text value VAL** (at 0 8.636) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.2032)))
   )
   (fp_line (start 4.6 -4.6038) (end 4.6 4.6038) (layer F.SilkS) (width 0.3048))
