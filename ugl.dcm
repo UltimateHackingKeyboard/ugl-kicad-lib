@@ -34,6 +34,11 @@ D Symbole general de connexion
 K CONN
 $ENDCMP
 #
+$CMP CONN_4
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
 $CMP CONN_5_RJ11
 D Symbole general de connecteur
 K CONN
