@@ -1,9 +1,9 @@
-(module SS-5GLD (layer F.Cu) (tedit 53C4A28F)
-  (fp_text reference REF** (at 0 2.1) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+(module SS-5GLD (layer F.Cu) (tedit 552EFE42)
+  (fp_text reference REF** (at -3.85 0) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value VAL** (at 0 -2) (layer F.SilkS) hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value VAL** (at 4.15 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start -10.4 -3.2) (end 9.9 -3.2) (layer B.SilkS) (width 0.15))
   (fp_line (start 9.9 -3.2) (end 9.9 3.2) (layer B.SilkS) (width 0.15))

@@ -1,10 +1,10 @@
-(module SM1206 (layer F.Cu) (tedit 53F4B9DD)
+(module SM1206 (layer F.Cu) (tedit 552EFCA2)
   (attr smd)
-  (fp_text reference REF** (at 0 -2.2) (layer F.SilkS)
-    (effects (font (size 0.762 0.762) (thickness 0.127)))
+  (fp_text reference REF** (at 0 -2) (layer F.SilkS)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 2.3) (layer F.SilkS) hide
-    (effects (font (size 0.762 0.762) (thickness 0.127)))
+  (fp_text value VAL** (at 0 2) (layer F.SilkS) hide
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (fp_line (start 2.65 -1.2) (end 2.65 1.2) (layer F.SilkS) (width 0.15))
   (fp_line (start 2.65 1.2) (end -2.65 1.2) (layer F.SilkS) (width 0.15))

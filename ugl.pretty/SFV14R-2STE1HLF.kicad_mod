@@ -1,9 +1,9 @@
-(module SFV14R-2STE1HLF (layer F.Cu) (tedit 52A356FD)
-  (fp_text reference REF** (at 0 -6.3) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+(module SFV14R-2STE1HLF (layer F.Cu) (tedit 552EFBE1)
+  (fp_text reference REF** (at 0 -6.1) (layer F.SilkS)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 1.2) (layer F.SilkS) hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value VAL** (at 0 1) (layer F.SilkS) hide
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (fp_line (start 6.4 -4.2) (end 6.4 0) (layer F.SilkS) (width 0.15))
   (fp_line (start -6.4 -4.2) (end -6.4 0) (layer F.SilkS) (width 0.15))

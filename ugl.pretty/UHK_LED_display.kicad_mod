@@ -1,9 +1,9 @@
-(module UHK_LED_display (layer F.Cu) (tedit 53D8426D)
+(module UHK_LED_display (layer F.Cu) (tedit 552EFEAC)
   (fp_text reference "UHK LED display" (at 24.13 -2.54) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (fp_text value VAL** (at 24.13 1.27) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (fp_line (start 11.424038 -8.442602) (end 11.118655 -10.216508) (layer F.SilkS) (width 0.1))
   (fp_line (start 11.118655 -10.216508) (end 13.089661 -10.555823) (layer F.SilkS) (width 0.1))

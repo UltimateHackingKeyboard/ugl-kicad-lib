@@ -1,12 +1,12 @@
-(module SN74CBT3257-SOIC (layer F.Cu) (tedit 52AAE200)
+(module SN74CBT3257-SOIC (layer F.Cu) (tedit 552EFCD9)
   (descr "SN74CBT3257 4-bit 1-of-2 FET multiplexer/demultiplexer SOIC package")
   (tags SOT)
   (attr smd)
-  (fp_text reference REF** (at 0 -5.65) (layer F.SilkS)
-    (effects (font (size 0.65 0.65) (thickness 0.1)))
+  (fp_text reference REF** (at 0 -5.8) (layer F.SilkS)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 5.65) (layer F.SilkS) hide
-    (effects (font (size 0.65 0.65) (thickness 0.1)))
+  (fp_text value VAL** (at 0 5.8) (layer F.SilkS) hide
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (fp_line (start -2 -5) (end 2 -5) (layer F.SilkS) (width 0.2))
   (fp_line (start 2 -5) (end 2 5) (layer F.SilkS) (width 0.2))

@@ -1,9 +1,9 @@
-(module UX60-MB-5S8 (layer F.Cu) (tedit 52B9DA1B)
-  (fp_text reference REF** (at 0 1.5748) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+(module UX60-MB-5S8 (layer F.Cu) (tedit 552F002E)
+  (fp_text reference REF** (at 0 -4.4) (layer F.SilkS)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 8.15086) (layer F.SilkS) hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value VAL** (at 0 7.4) (layer F.SilkS) hide
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (fp_line (start 3.64998 -3.2512) (end -3.64998 -3.2512) (layer F.SilkS) (width 0.15))
   (fp_line (start 3.64998 6.4008) (end 3.64998 -3.2512) (layer F.SilkS) (width 0.15))
