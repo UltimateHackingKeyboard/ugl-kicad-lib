@@ -1,9 +1,9 @@
-(module SM1206_Tantalum (layer F.Cu) (tedit 552EFCBD)
+(module SM1206_Tantalum (layer F.Cu) (tedit 553F6694)
   (attr smd)
   (fp_text reference REF** (at 0 -1.8) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 1.8) (layer F.SilkS) hide
+  (fp_text value VAL** (at 0 1.8) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (fp_line (start -3.2 -1) (end -3.2 1) (layer F.SilkS) (width 0.15))
