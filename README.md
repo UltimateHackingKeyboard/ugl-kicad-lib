@@ -1,6 +1,8 @@
 # ugl-kicad-libs
 
-Contains a kicad library (ugl.pretty) with many of the footprints (kicad_mod) required to create the Ultimate Hacking Keyboard. 
+[![Changelog #186](https://img.shields.io/badge/changelog-%23186-lightgrey.svg)](https://changelog.com/186)
+
+Contains a kicad library (ugl.pretty) with many of the footprints (kicad_mod) required to create the Ultimate Hacking Keyboard.
 
 [UHK github](https://github.com/UltimateHackingKeyboard)
 
