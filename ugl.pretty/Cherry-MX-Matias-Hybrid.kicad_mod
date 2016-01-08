@@ -1,9 +1,9 @@
-(module Cherry-MX-Matias-Hybrid (layer F.Cu) (tedit 568E00D3)
+(module Cherry-MX-Matias-Hybrid (layer F.Cu) (tedit 568EFC39)
   (tags switch)
   (fp_text reference MX-Matias-Hybrid (at 0 8.89) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value VAL** (at 0 3.81) (layer F.SilkS)
+  (fp_text value VAL** (at 0 4.445) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
   (fp_line (start -7.62 7.62) (end -7.62 -7.62) (layer B.SilkS) (width 0.15))
