@@ -1,6 +1,6 @@
-(module Cherry-MX-Matias-Hybrid (layer F.Cu) (tedit 568F39F5)
+(module Cherry-MX-Matias-Hybrid-LED (layer F.Cu) (tedit 56970A26)
   (tags switch)
-  (fp_text reference REF** (at 0 3.81) (layer F.SilkS)
+  (fp_text reference REF** (at 0 3.175) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
   (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
@@ -25,6 +25,8 @@
   (pad "" thru_hole circle (at 5.08 0) (size 1.69926 1.69926) (drill 1.69926) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 2.5 -4.5) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -2.5 -4) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at -1.27 5.08) (size 1.6002 1.6002) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at 1.27 5.08) (size 1.6002 1.6002) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (model cherry_mx1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
