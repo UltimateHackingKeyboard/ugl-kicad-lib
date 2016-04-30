@@ -1,5 +1,4 @@
-(module tag_connect_2x3_no_latch_header (layer F.Cu) (tedit 57225C2C)
-  (descr "Tag-Connect 2x3 no-latch header")
+(module Tag_Connect_2x3_Header_With_Legs (layer F.Cu) (tedit 57225C2C)
   (fp_text reference NAME** (at 0 5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
