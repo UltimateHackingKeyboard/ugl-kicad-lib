@@ -1,14 +1,14 @@
-(module Cherry_MX_LED locked (layer F.Cu) (tedit 5727E6F2)
+(module Cherry_MX_LED locked (layer F.Cu) (tedit 5727E919)
   (tags switch)
   (fp_text reference REF** (at 0 3.2) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value "" (at 0 -8.5) (layer F.SilkS) hide
+  (fp_text value Val** (at 0 -8.5) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
   (pad 1 smd rect (at -3.1 0) (size 1.8 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 1 thru_hole circle (at -1.27 5.08) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 1.27 5.08) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole rect (at 1.27 5.08) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 smd rect (at 3.1 0) (size 1.8 1.5) (layers F.Cu F.Paste F.Mask))
   (model cherry_mx1.wrl
     (at (xyz 0 0 0))
