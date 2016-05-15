@@ -1,4 +1,4 @@
-(module SFV18R-2STE1HLF (layer F.Cu) (tedit 553B7684)
+(module FFC_Connector_SFV18R-2STE1HLF (layer F.Cu) (tedit 553B7684)
   (fp_text reference REF** (at 0 -6.2) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
