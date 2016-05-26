@@ -1,6 +1,8 @@
 (module QFN-24-1EP_4x4mm_Pitch0.5mm (layer F.Cu) (tedit 57477220)
   (descr "24-Lead Plastic Quad Flat, No Lead Package (MJ) - 4x4x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)")
   (tags "QFN 0.5")
+  (solder_mask_margin 0.025)
+  (clearance 0.1)
   (attr smd)
   (fp_text reference REF** (at 0 -3.375) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
