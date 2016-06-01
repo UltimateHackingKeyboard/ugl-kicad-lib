@@ -145,6 +145,11 @@ $CMP LED
 K LED
 $ENDCMP
 #
+$CMP LM3671
+D Renesas HN58X25128I / HN58X25256I
+K eeprom
+$ENDCMP
+#
 $CMP MOSFET_N
 F transistors/mos/*.*
 $ENDCMP
