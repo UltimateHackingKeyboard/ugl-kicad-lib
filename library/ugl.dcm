@@ -136,6 +136,11 @@ D Filtre EMI
 K EMI
 $ENDCMP
 #
+$CMP ESD
+D 4 Channel TVS Array
+K ESD TVS
+$ENDCMP
+#
 $CMP FILTER
 D Filtre EMI
 K EMI
@@ -253,8 +258,7 @@ K VR  DEV
 $ENDCMP
 #
 $CMP ZENER
-D Diode zener
-K DEV DIODE
+D Zener diode
 $ENDCMP
 #
 #End Doc Library
