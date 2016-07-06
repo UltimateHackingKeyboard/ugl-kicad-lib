@@ -1,9 +1,12 @@
-(module Reed_Switch_CT05-3050-G1 (layer F.Cu) (tedit 577CF7EC)
+(module Reed_Switch_CT05-3050-G1 (layer F.Cu) (tedit 577D7C60)
   (fp_text reference REF** (at 0 -2.2) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (fp_text value Reed_Switch_CT05-3050-G1 (at 0 2.3) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "REED SWITCH" (at 0 0) (layer F.SilkS)
+    (effects (font (size 0.7 0.7) (thickness 0.14)))
   )
   (fp_line (start 6 1.3) (end -6 1.3) (layer F.SilkS) (width 0.15))
   (fp_line (start -6 1.3) (end -6 -1.3) (layer F.SilkS) (width 0.15))

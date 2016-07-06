@@ -1,7 +1,7 @@
-(module Cherry_MX_LED_ANSI_Shift locked (layer F.Cu) (tedit 572B122F)
+(module Cherry_MX_LED_ANSI_Shift locked (layer F.Cu) (tedit 577D84F3)
   (tags switch)
-  (fp_text reference REF** (at 0 3.2) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference REF** (at 4.5 5.1) (layer F.SilkS)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (fp_text value Val** (at 0 -8.5) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
