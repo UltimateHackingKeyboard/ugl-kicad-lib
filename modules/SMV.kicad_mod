@@ -1,9 +1,9 @@
-(module SMV (layer F.Cu) (tedit 5759E1A1)
+(module SMV (layer F.Cu) (tedit 577CF16A)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (fp_text value SMV (at 0 2.6) (layer F.Fab) hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value SMV (at 0 2.5) (layer F.Fab) hide
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (fp_line (start -1.45 -0.8) (end 1.45 -0.8) (layer F.SilkS) (width 0.15))
   (fp_line (start 1.45 -0.8) (end 1.45 0.8) (layer F.SilkS) (width 0.15))
