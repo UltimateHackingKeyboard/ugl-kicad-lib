@@ -1,11 +1,11 @@
-(module 1x4_pin_unshrouded_header (layer F.Cu) (tedit 5733C693)
+(module 1x4_pin_unshrouded_header (layer F.Cu) (tedit 577E9419)
   (descr "1x4 pin unshrouded header")
   (tags CONN)
-  (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.2)))
+  (fp_text reference REF** (at 0 -2.1) (layer F.SilkS)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 2.54) (layer F.SilkS) hide
-    (effects (font (size 1 1) (thickness 0.2)))
+  (fp_text value VAL** (at 0 2.2) (layer F.SilkS) hide
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (fp_line (start -5.08 1.27) (end 5.08 1.27) (layer F.SilkS) (width 0.2032))
   (fp_line (start -5.08 -1.27) (end 5.08 -1.27) (layer F.SilkS) (width 0.2032))
