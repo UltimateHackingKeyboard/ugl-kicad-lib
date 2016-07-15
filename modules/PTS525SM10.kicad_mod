@@ -1,5 +1,6 @@
 (module PTS525SM10 (layer F.Cu) (tedit 553EA397)
   (descr "PTS 525 Series Microminiature Tactile SMT Switch")
+  (attr smd)
   (fp_text reference REF** (at 0 -3.6) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )

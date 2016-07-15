@@ -33,7 +33,7 @@
   (pad 16 smd rect (at -4.445 -2.4003) (size 0.59944 1.99898) (layers F.Cu F.Paste F.Mask))
   (model smd/cms_so16.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.5 0.300000011920929 0.5))
+    (scale (xyz 0.5 0.3 0.5))
     (rotate (xyz 0 0 0))
   )
 )

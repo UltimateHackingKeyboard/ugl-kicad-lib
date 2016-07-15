@@ -1,5 +1,5 @@
 (module Solder_Jumper_0805 (layer F.Cu) (tedit 577ED062)
-  (attr smd)
+  (attr virtual)
   (fp_text reference REF** (at -2.2 0 90) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )

@@ -1,4 +1,5 @@
 (module FFC_Connector_SFV10R-4STE1HLF (layer F.Cu) (tedit 574AF38B)
+  (attr smd)
   (fp_text reference REF** (at 0 -6.2) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
