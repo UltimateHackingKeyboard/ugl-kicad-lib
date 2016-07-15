@@ -1,10 +1,10 @@
-(module SOD-123_Diode (layer F.Cu) (tedit 553C290D)
+(module SOD-123_Diode (layer F.Cu) (tedit 5788DFC7)
   (attr smd)
   (fp_text reference REF** (at -3.556 0 90) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 4.064 0 90) (layer F.SilkS) hide
-    (effects (font (size 0.75 0.75) (thickness 0.15)))
+  (fp_text value Val** (at 3.7 0 90) (layer F.SilkS) hide
+    (effects (font (size 0.375 0.375) (thickness 0.075)))
   )
   (fp_line (start 3.15 -0.95) (end 3.15 0.95) (layer F.SilkS) (width 0.15))
   (fp_line (start 2.7 -0.95) (end 2.7 0.95) (layer F.SilkS) (width 0.15))
