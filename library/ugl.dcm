@@ -242,6 +242,10 @@ D Push Button
 K Switch
 $ENDCMP
 #
+$CMP TEST_POINT
+D Test point
+$ENDCMP
+#
 $CMP THERMISTOR
 D Resistance
 K R DEV

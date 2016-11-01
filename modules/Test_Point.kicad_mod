@@ -1,0 +1,13 @@
+(module Test_Point (layer F.Cu) (tedit 5818DD65)
+  (descr FID)
+  (tags FIDUCIAL)
+  (attr virtual)
+  (fp_text reference >REF (at 2.3 0) (layer F.SilkS)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
+  )
+  (fp_text value >VALUE (at 0 1.4) (layer F.Fab) hide
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
+  )
+  (pad 1 smd circle (at 0 0) (size 1.2 1.2) (layers F.Cu F.Mask)
+    (solder_mask_margin 1))
+)
