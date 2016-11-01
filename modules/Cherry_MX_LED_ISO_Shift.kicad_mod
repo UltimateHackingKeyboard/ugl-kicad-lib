@@ -1,4 +1,4 @@
-(module Cherry_MX_LED_ISO_Shift locked (layer F.Cu) (tedit 5813B887)
+(module Cherry_MX_LED_ISO_Shift locked (layer F.Cu) (tedit 58182F28)
   (tags switch)
   (fp_text reference REF** (at 4.5 5.1) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
@@ -6,6 +6,8 @@
   (fp_text value Val** (at -0.2 6.2) (layer F.SilkS) hide
     (effects (font (size 0.375 0.375) (thickness 0.075)))
   )
+  (fp_circle (center -1.27 5.08) (end -3.27 5.08) (layer Eco1.User) (width 0.01))
+  (fp_circle (center 1.27 5.08) (end 3.27 5.08) (layer Eco1.User) (width 0.01))
   (pad 1 smd rect (at -2.8 0) (size 1.1 1) (layers F.Cu F.Paste F.Mask))
   (pad 1 thru_hole rect (at -1.27 5.08) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 1.27 5.08) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
