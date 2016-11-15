@@ -1,4 +1,4 @@
-(module UHK_Connector_Left_PCB (layer F.Cu) (tedit 574F64CE)
+(module UHK_Connector_Left_PCB (layer F.Cu) (tedit 582B7B26)
   (attr virtual)
   (fp_text reference REF** (at -0.976 19.812) (layer Cmts.User)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
@@ -10,6 +10,7 @@
   (fp_line (start 0 18.7) (end -2.5 18.7) (layer Cmts.User) (width 0.15))
   (fp_line (start -2.5 18.7) (end -2.5 0) (layer Cmts.User) (width 0.15))
   (fp_line (start -2.5 0) (end 0 0) (layer Cmts.User) (width 0.15))
+  (fp_line (start -2.5 18) (end 0 18) (layer Cmts.User) (width 0.15))
   (pad 5 smd rect (at -3.8 16.2) (size 2.6 2.6) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -3.8 2.6) (size 2.6 2.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -3.8 6) (size 2.6 2.6) (layers F.Cu F.Paste F.Mask))
