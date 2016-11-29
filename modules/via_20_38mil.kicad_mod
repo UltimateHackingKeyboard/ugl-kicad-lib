@@ -1,0 +1,11 @@
+(module via_20_38mil (layer F.Cu) (tedit 583DD0EB)
+  (attr virtual)
+  (fp_text reference via (at 0 -0.9) (layer F.SilkS) hide
+    (effects (font (size 0.375 0.375) (thickness 0.075)))
+  )
+  (fp_text value 20/38mil (at 0 0.95) (layer F.SilkS) hide
+    (effects (font (size 0.375 0.375) (thickness 0.075)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 0.9652 0.9652) (drill 0.508) (layers *.Cu *.Mask F.SilkS)
+    (solder_mask_margin -1))
+)
