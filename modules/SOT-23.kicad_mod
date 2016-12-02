@@ -1,4 +1,4 @@
-(module SOT-23 (layer F.Cu) (tedit 553F8958)
+(module SOT-23 (layer F.Cu) (tedit 5840C341)
   (tags SOT23)
   (attr smd)
   (fp_text reference REF** (at 0 2.794) (layer F.SilkS)
@@ -16,7 +16,6 @@
   (fp_line (start 0.75 -0.65) (end 1.7 -0.65) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.75 -1.95) (end -0.75 -0.65) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.75 -0.65) (end -1.7 -0.65) (layer F.SilkS) (width 0.15))
-  (fp_circle (center -1.69672 1.93802) (end -1.82118 2.03708) (layer F.SilkS) (width 0.07874))
   (fp_line (start 1.7 -0.65) (end 1.7 1.95) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.7 -0.65) (end -1.7 1.95) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.75 -1.95) (end 0.75 -1.95) (layer F.SilkS) (width 0.15))
