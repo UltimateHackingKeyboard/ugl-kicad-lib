@@ -1,4 +1,4 @@
-(module SOT-23-GSD (layer F.Cu) (tedit 5840C381)
+(module SOT-23-GSD (layer F.Cu) (tedit 588D1FC8)
   (tags SOT23)
   (attr smd)
   (fp_text reference REF** (at 0 2.794) (layer F.SilkS)
@@ -19,9 +19,9 @@
   (fp_line (start 1.7 -0.65) (end 1.7 1.95) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.7 -0.65) (end -1.7 1.95) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.75 -1.95) (end 0.75 -1.95) (layer F.SilkS) (width 0.15))
-  (pad D smd rect (at 0 -1.09982) (size 0.8001 1.00076) (layers F.Cu F.Mask))
-  (pad S smd rect (at 0.9525 1.09982) (size 0.8001 1.00076) (layers F.Cu F.Mask))
-  (pad G smd rect (at -0.9525 1.09982) (size 0.8001 1.00076) (layers F.Cu F.Mask))
+  (pad D smd rect (at 0 -1.09982) (size 0.8001 1.00076) (layers F.Cu F.Paste F.Mask))
+  (pad S smd rect (at 0.9525 1.09982) (size 0.8001 1.00076) (layers F.Cu F.Paste F.Mask))
+  (pad G smd rect (at -0.9525 1.09982) (size 0.8001 1.00076) (layers F.Cu F.Paste F.Mask))
   (model smd\SOT23_3.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.4 0.4 0.4))

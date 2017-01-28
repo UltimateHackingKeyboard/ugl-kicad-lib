@@ -1,4 +1,4 @@
-(module SM1206 (layer F.Cu) (tedit 582E3251)
+(module SM1206 (layer F.Cu) (tedit 588D1F64)
   (attr smd)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
@@ -10,8 +10,8 @@
   (fp_line (start 2.7 1.25) (end -2.7 1.25) (layer F.SilkS) (width 0.15))
   (fp_line (start -2.7 1.25) (end -2.7 -1.25) (layer F.SilkS) (width 0.15))
   (fp_line (start -2.7 -1.25) (end 2.7 -1.25) (layer F.SilkS) (width 0.15))
-  (pad 1 smd rect (at -1.5 0) (size 1.8 1.9) (layers F.Cu F.Mask))
-  (pad 2 smd rect (at 1.5 0) (size 1.8 1.9) (layers F.Cu F.Mask))
+  (pad 1 smd rect (at -1.5 0) (size 1.8 1.9) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 1.5 0) (size 1.8 1.9) (layers F.Cu F.Paste F.Mask))
   (model smd/chip_cms.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.1700000017881393 0.1599999964237213 0.1599999964237213))
