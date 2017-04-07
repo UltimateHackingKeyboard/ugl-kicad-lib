@@ -1,4 +1,5 @@
-(module label (layer F.Cu) (tedit 5874CE19)
+(module label (layer F.Cu) (tedit 58E7FF09)
+  (attr virtual)
   (fp_text reference REF** (at 0 3.5) (layer F.SilkS) hide
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
