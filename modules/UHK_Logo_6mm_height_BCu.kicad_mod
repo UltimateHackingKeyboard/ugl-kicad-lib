@@ -1,6 +1,7 @@
-(module UHK_Logo_6mm_height_BCu (layer F.Cu) (tedit 58AA04A1)
+(module UHK_Logo_6mm_height_BCu (layer F.Cu) (tedit 592B6CF2)
   (descr "UHK Logo, 6mm height")
-  (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
+  (attr virtual)
+  (fp_text reference G (at 0 0) (layer F.SilkS) hide
     (effects (font (thickness 0.3)))
   )
   (fp_text value LOGO (at 0.75 0) (layer F.SilkS) hide
