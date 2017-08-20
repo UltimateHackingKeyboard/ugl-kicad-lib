@@ -1,6 +1,7 @@
-(module SOT-223 (layer F.Cu) (tedit 57D86478)
+(module SOT-223 (layer F.Cu) (tedit 5999E4EB)
   (descr SOT-223)
   (tags SOT-223)
+  (attr smd)
   (fp_text reference REF** (at 0 4.7) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
