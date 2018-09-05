@@ -48,6 +48,11 @@ D Symbole general de connexion
 K CONN
 $ENDCMP
 #
+$CMP CONN_16
+D Symbole general de connexion
+K CONN
+$ENDCMP
+#
 $CMP CONN_4
 D Symbole general de connecteur
 K CONN
@@ -164,6 +169,10 @@ D FSUSB42
 $ENDCMP
 #
 $CMP LED
+K LED
+$ENDCMP
+#
+$CMP RGB_LED
 K LED
 $ENDCMP
 #
