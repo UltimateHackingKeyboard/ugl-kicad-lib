@@ -78,6 +78,10 @@ D Symbole general de connexion
 K CONN
 $ENDCMP
 #
+$CMP CONN_USB_C
+K CONN USB
+$ENDCMP
+#
 $CMP CP
 D Condensateur polarise
 $ENDCMP
@@ -172,10 +176,6 @@ $CMP LED
 K LED
 $ENDCMP
 #
-$CMP RGB_LED
-K LED
-$ENDCMP
-#
 $CMP LM3671
 D Renesas HN58X25128I / HN58X25256I
 K eeprom
@@ -217,6 +217,10 @@ $ENDCMP
 $CMP R
 D Resistance
 K R DEV
+$ENDCMP
+#
+$CMP RGB_LED
+K LED
 $ENDCMP
 #
 $CMP RR8
