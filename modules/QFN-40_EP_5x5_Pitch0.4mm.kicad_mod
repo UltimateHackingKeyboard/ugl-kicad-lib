@@ -1,4 +1,4 @@
-(module QFN-40_EP_5x5_Pitch0.4mm (layer F.Cu) (tedit 5BD61A56)
+(module QFN-40_EP_5x5_Pitch0.4mm (layer F.Cu) (tedit 5C4EEB71)
   (solder_mask_margin 0.025)
   (clearance 0.09)
   (attr smd)
@@ -19,6 +19,7 @@
   (fp_line (start 3.1 -3.1) (end 3.1 3.1) (layer F.CrtYd) (width 0.05))
   (fp_line (start 3.1 3.1) (end -3.1 3.1) (layer F.CrtYd) (width 0.05))
   (fp_line (start -3.1 3.1) (end -3.1 -3.1) (layer F.CrtYd) (width 0.05))
+  (fp_circle (center -3.1 -3.1) (end -2.8 -3.1) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -2.5 -1.8 90) (size 0.22 0.715) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2.5 -1.4 90) (size 0.22 0.715) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -2.5 -1 90) (size 0.22 0.715) (layers F.Cu F.Paste F.Mask))
