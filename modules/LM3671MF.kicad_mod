@@ -1,4 +1,4 @@
-(module LM3671MF (layer F.Cu) (tedit 5C6C5777)
+(module LM3671MF (layer F.Cu) (tedit 5C6FB56A)
   (attr smd)
   (fp_text reference REF** (at -2.25 0 90) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
