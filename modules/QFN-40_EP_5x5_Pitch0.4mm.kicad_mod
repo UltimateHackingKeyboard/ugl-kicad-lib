@@ -1,11 +1,11 @@
-(module QFN-40_EP_5x5_Pitch0.4mm (layer F.Cu) (tedit 5C6C5817)
+(module QFN-40_EP_5x5_Pitch0.4mm (layer F.Cu) (tedit 5C80F4CA)
   (solder_mask_margin 0.025)
   (clearance 0.09)
   (attr smd)
   (fp_text reference U2 (at 0 -3.8575) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value IS31FL3737 (at 0 3.8575) (layer F.Fab) hide
+  (fp_text value IS31FL3737 (at 0 3.8575) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 2.2 -2.65) (end 2.65 -2.65) (layer F.SilkS) (width 0.15))
