@@ -309,6 +309,11 @@ D Diode simple
 K DEV DIODE
 $ENDCMP
 #
+$CMP TLE4964-5M
+D Panasonic hall effect sensor - unidirectional
+K Hall CMOS
+$ENDCMP
+#
 $CMP VR
 D VARISTANCE
 K VR  DEV
