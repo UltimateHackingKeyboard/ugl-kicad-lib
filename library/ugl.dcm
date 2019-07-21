@@ -14,6 +14,11 @@ D Afficheur Leds 7 segments
 K DEV
 $ENDCMP
 #
+$CMP ADNS-3530
+D Panasonic hall effect sensor - unidirectional
+K Hall CMOS
+$ENDCMP
+#
 $CMP AN48841B
 D Panasonic hall effect sensor - unidirectional
 K Hall CMOS
@@ -182,6 +187,10 @@ $CMP FSUSB42
 D FSUSB42
 $ENDCMP
 #
+$CMP IQS572
+D FSUSB42
+$ENDCMP
+#
 $CMP LED
 K LED
 $ENDCMP
@@ -230,6 +239,10 @@ K R DEV
 $ENDCMP
 #
 $CMP RGB_LED
+K LED
+$ENDCMP
+#
+$CMP RGB_LED_PLCC4
 K LED
 $ENDCMP
 #
@@ -294,6 +307,11 @@ $ENDCMP
 $CMP THYRISTOR
 D Diode simple
 K DEV DIODE
+$ENDCMP
+#
+$CMP TLE4964-5M
+D Panasonic hall effect sensor - unidirectional
+K Hall CMOS
 $ENDCMP
 #
 $CMP VR
