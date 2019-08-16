@@ -1,5 +1,4 @@
-(module UHK_Female_Pogo_Pin locked (layer F.Cu) (tedit 5C1AB1CA)
-  (attr virtual)
+(module UHK_Female_Pogo_Pin locked (layer F.Cu) (tedit 5D568C30)
   (fp_text reference P2 (at 0 10.7) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )

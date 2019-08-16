@@ -1,5 +1,4 @@
-(module UHK_Male_Pogo_Pin (layer F.Cu) (tedit 5C059C5A)
-  (attr virtual)
+(module UHK_Male_Pogo_Pin (layer F.Cu) (tedit 5D568C22)
   (fp_text reference REF** (at 0 10.7) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
