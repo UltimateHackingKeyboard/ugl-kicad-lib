@@ -1,10 +1,10 @@
-(module hole_5.5mm (layer F.Cu) (tedit 5D574194)
+(module hole_5.7mm (layer F.Cu) (tedit 5D574194)
   (attr virtual)
   (fp_text reference hole (at 0 -3.2) (layer F.SilkS) hide
     (effects (font (size 0.375 0.375) (thickness 0.075)))
   )
-  (fp_text value 5.5mm (at 0 3.2) (layer F.SilkS) hide
+  (fp_text value 5.7mm (at 0 3.2) (layer F.SilkS) hide
     (effects (font (size 0.375 0.375) (thickness 0.075)))
   )
-  (pad "" np_thru_hole circle (at 0 0) (size 5.5 5.5) (drill 5.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 0) (size 5.7 5.7) (drill 5.7) (layers *.Cu *.Mask))
 )
