@@ -3,7 +3,7 @@
   (fp_text reference REF** (at 0 -5.9) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (fp_text value MEC1-108-02-S-D-EM2 (at 2.6 0.9) (layer F.SilkS)
+  (fp_text value MEC1-108-02-S-D-EM2 (at 2.6 0.9) (layer Margin)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (fp_line (start -0.374 0) (end 6.374 0) (layer Edge.Cuts) (width 0.01))
