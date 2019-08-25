@@ -34,6 +34,11 @@ D Pont de Diodes
 K Pont Diode
 $ENDCMP
 #
+$CMP BU52012HFV-TR
+D ROHM - Hall Effect Sensor, Unipolar, 500 µA, HVSOF, 5 Pins, 1.65 V, 3.3 V
+K Hall CMOS
+$ENDCMP
+#
 $CMP C
 D Condensateur non polarise
 $ENDCMP
