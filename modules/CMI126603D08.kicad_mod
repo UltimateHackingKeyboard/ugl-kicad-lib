@@ -1,4 +1,4 @@
-(module CMI126603D08 (layer F.Cu) (tedit 5D48B573)
+(module CMI126603D08 (layer F.Cu) (tedit 5DB56223)
   (fp_text reference REF** (at 0 -3.8) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
@@ -15,5 +15,5 @@
   (fp_line (start -3.5 1.5) (end -3.5 -1.5) (layer F.SilkS) (width 0.2))
   (pad 1 thru_hole circle (at -5.08 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
-  (pad 3 thru_hole circle (at 5.08 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 5.08 0) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask))
 )
