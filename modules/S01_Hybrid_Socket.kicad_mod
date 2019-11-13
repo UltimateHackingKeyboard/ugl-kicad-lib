@@ -1,5 +1,5 @@
-(module S01_Hybrid_Socket (layer F.Cu) (tedit 5DBAC4B4)
-  (fp_text reference REF** (at 4.8 3.6 90) (layer F.SilkS)
+(module S01_Hybrid_Socket (layer F.Cu) (tedit 5DBAE699)
+  (fp_text reference REF** (at 6.4 5.1 270) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)) (justify mirror))
   )
   (fp_text value VAL** (at -6 5 270) (layer B.SilkS) hide
