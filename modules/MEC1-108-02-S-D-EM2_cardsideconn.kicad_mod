@@ -1,5 +1,5 @@
-(module MEC1-108-02-S-D-EM2_cardsideconn (layer F.Cu) (tedit 5D6C1EEB)
-  (attr smd)
+(module MEC1-108-02-S-D-EM2_cardsideconn (layer F.Cu) (tedit 5E00F262)
+  (attr virtual)
   (fp_text reference REF** (at 0 -5.9) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
