@@ -1,4 +1,5 @@
-(module S01_Hybrid_Socket_Inner_Left (layer F.Cu) (tedit 5E657A87)
+(module S01_Hybrid_Socket_Inner_Left (layer F.Cu) (tedit 5E657ED8)
+  (descr "top area: 0.69*1.2+0.4*0.8+1.02*1.09+1.7*0.58 = 3.2458 mm | bottom area: 2.7*1.2 = 3.24 mm")
   (fp_text reference REF** (at 6.4 5.1 270) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)) (justify mirror))
   )
