@@ -1,4 +1,4 @@
-(module S01_Hybrid_Socket_Inner_Left (layer F.Cu) (tedit 5E656EE6)
+(module S01_Hybrid_Socket_Inner_Left (layer F.Cu) (tedit 5E657132)
   (fp_text reference REF** (at 6.4 5.1 270) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)) (justify mirror))
   )
@@ -23,7 +23,7 @@
     (primitives
       (gr_poly (pts
          (xy -0.6 -2.69) (xy -0.6 1.55) (xy 0.6 1.55) (xy 0.6 -0.69) (xy 1 -1.09)
-) (width 0))
+         (xy -0.02 -2.11) (xy -0.02 -2.69)) (width 0))
     ))
   (pad "" np_thru_hole circle (at -3.81 2.54) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.54 5.08 180) (size 3.5 3.5) (drill 3.5) (layers *.Cu *.Mask))
