@@ -1,5 +1,5 @@
-(module S01_Hybrid_Socket_Backslash (layer F.Cu) (tedit 5E693DCB)
-  (descr "top area: 0.69*1.2+0.4*0.8+1.02*1.09+1.7*0.58 = 3.2458 mm | bottom area: 2.7*1.2 = 3.24 mm")
+(module S01_Hybrid_Socket_Backslash (layer F.Cu) (tedit 5E69523F)
+  (descr "top area: 0.69*1.52+0.4*1.12+1.02*1.41+0.4*0.9 = 3.295 mm | bottom area: 2.14*1.52 = 3.2528 mm")
   (fp_text reference REF** (at 6.4 5.1 270) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)) (justify mirror))
   )
@@ -26,8 +26,8 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-         (xy -0.92 -2.81) (xy -0.92 2.3) (xy 0.6 2.3) (xy 0.6 -0.69) (xy 1 -1.09)
-         (xy -0.02 -2.11) (xy -0.02 -2.81)) (width 0))
+         (xy -0.92 -2.51) (xy -0.92 2.14) (xy 0.6 2.14) (xy 0.6 -0.69) (xy 1 -1.09)
+         (xy -0.02 -2.11) (xy -0.02 -2.51)) (width 0))
     ))
   (pad 2 smd rect (at 5.77 5.08 180) (size 2.54 2.54) (layers F.Cu F.Paste F.Mask)
     (clearance 0.2032))
