@@ -1,4 +1,4 @@
-(module UHK_Connector_GND10_Pad (layer F.Cu) (tedit 5C17AE31)
+(module UHK_Connector_GND10_Pad (layer F.Cu) (tedit 5E8A6C60)
   (attr virtual)
   (fp_text reference REF** (at 0 -2.2) (layer F.SilkS) hide
     (effects (font (size 0.75 0.75) (thickness 0.15)))
@@ -7,5 +7,5 @@
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (pad 1 smd circle (at 0 0) (size 10 10) (layers F.Cu F.Mask))
-  (pad 1 thru_hole circle (at 0 0) (size 6 6) (drill 6) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 0 0) (size 4.85 4.85) (drill 4.85) (layers *.Cu *.Mask))
 )
