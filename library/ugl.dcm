@@ -196,6 +196,10 @@ $CMP IQS572
 D FSUSB42
 $ENDCMP
 #
+$CMP Joystick
+D by SparkFun
+$ENDCMP
+#
 $CMP LED
 K LED
 $ENDCMP
