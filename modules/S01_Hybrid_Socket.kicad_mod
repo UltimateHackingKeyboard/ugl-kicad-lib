@@ -1,4 +1,5 @@
-(module S01_Hybrid_Socket (layer F.Cu) (tedit 5E6130FC)
+(module S01_Hybrid_Socket (layer F.Cu) (tedit 5EF13209)
+  (attr smd)
   (fp_text reference REF** (at 6.4 5.1 270) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)) (justify mirror))
   )
