@@ -1,4 +1,4 @@
-(module USB_C_Connector_036-013 (layer F.Cu) (tedit 5D574911)
+(module USB_C_Connector_036-013 (layer F.Cu) (tedit 5F5FDBD0)
   (clearance 0.1016)
   (fp_text reference J1 (at 0 -2.54) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
@@ -6,10 +6,9 @@
   (fp_text value CONN_USB_C (at 0 7.4) (layer F.SilkS) hide
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (fp_line (start -4.97 -7.37) (end -4.97 -0.02) (layer F.SilkS) (width 0.15))
-  (fp_line (start -4.97 -0.02) (end 4.97 -0.02) (layer F.SilkS) (width 0.15))
   (fp_line (start 4.97 -0.02) (end 4.97 -7.37) (layer F.SilkS) (width 0.15))
-  (fp_line (start 4.97 -7.37) (end -4.97 -7.37) (layer F.SilkS) (width 0.15))
+  (fp_line (start -4.97 -0.02) (end 4.97 -0.02) (layer F.SilkS) (width 0.15))
+  (fp_line (start -4.97 -7.37) (end -4.97 -0.02) (layer F.SilkS) (width 0.15))
   (pad A8 smd rect (at 1.25 -7.7) (size 0.3 1.4) (layers F.Cu F.Paste F.Mask)
     (clearance 0.1016))
   (pad B5 smd rect (at 1.75 -7.7) (size 0.3 1.4) (layers F.Cu F.Paste F.Mask)
