@@ -1,0 +1,11 @@
+(module smd_pad_1.7mm (layer F.Cu) (tedit 5FAA632B)
+  (attr virtual)
+  (fp_text reference pad (at 0 -1.27) (layer F.SilkS) hide
+    (effects (font (size 0.375 0.375) (thickness 0.075)))
+  )
+  (fp_text value 1.7mm (at 0 1.27) (layer F.SilkS) hide
+    (effects (font (size 0.375 0.375) (thickness 0.075)))
+  )
+  (pad "" smd circle (at 0 0) (size 1.7 1.7) (layers F.Cu)
+    (clearance 0.2032))
+)
