@@ -1,4 +1,4 @@
-(module UHK_Connector_Left_Inner_Drill (layer F.Cu) (tedit 579697E3)
+(module UHK_Connector_Left_Inner_Drill (layer F.Cu) (tedit 5D5746EE)
   (attr virtual)
   (fp_text reference REF** (at 0 -1.905) (layer F.SilkS) hide
     (effects (font (size 0.75 0.75) (thickness 0.15)))
@@ -6,5 +6,5 @@
   (fp_text value VAL** (at 0 1.905) (layer F.SilkS) hide
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (pad "" np_thru_hole circle (at 0 0) (size 1.65 1.65) (drill 1.65) (layers *.Cu *.Mask F.SilkS))
+  (pad "" np_thru_hole circle (at 0 0) (size 1.65 1.65) (drill 1.65) (layers *.Cu *.Mask))
 )

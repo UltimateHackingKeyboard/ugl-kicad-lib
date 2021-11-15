@@ -1,4 +1,4 @@
-(module SM1206_Diode (layer F.Cu) (tedit 59963E6D)
+(module SM1206_Diode (layer F.Cu) (tedit 5C80DD9B)
   (attr smd)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
@@ -6,11 +6,7 @@
   (fp_text value VAL** (at 0 2) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (fp_line (start 2.7 -1.25) (end 2.7 1.25) (layer F.SilkS) (width 0.15))
-  (fp_line (start 2.7 1.25) (end -2.7 1.25) (layer F.SilkS) (width 0.15))
-  (fp_line (start -2.7 1.25) (end -2.7 -1.25) (layer F.SilkS) (width 0.15))
-  (fp_line (start -2.7 -1.25) (end 2.7 -1.25) (layer F.SilkS) (width 0.15))
-  (fp_line (start -3.048 -1.27) (end -3.048 1.27) (layer F.SilkS) (width 0.15))
+  (fp_line (start -2.8 -0.9) (end -2.8 0.9) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -1.5 0) (size 1.8 1.9) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.5 0) (size 1.8 1.9) (layers F.Cu F.Paste F.Mask))
   (model smd/chip_cms.wrl

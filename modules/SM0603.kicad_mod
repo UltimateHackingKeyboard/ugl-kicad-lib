@@ -1,4 +1,4 @@
-(module SM0603 (layer F.Cu) (tedit 553D3513)
+(module SM0603 (layer F.Cu) (tedit 5C6C58A5)
   (attr smd)
   (fp_text reference REF** (at 0 -1.45) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
@@ -6,14 +6,12 @@
   (fp_text value VAL** (at 0 1.5) (layer F.SilkS) hide
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (fp_line (start -1.5 -0.75) (end 1.5 -0.75) (layer F.SilkS) (width 0.127))
-  (fp_line (start 1.5 -0.75) (end 1.5 0.75) (layer F.SilkS) (width 0.127))
-  (fp_line (start 1.5 0.75) (end -1.5 0.75) (layer F.SilkS) (width 0.127))
-  (fp_line (start -1.5 0.75) (end -1.5 -0.75) (layer F.SilkS) (width 0.127))
+  (fp_line (start -0.4 -0.5) (end 0.4 -0.5) (layer F.SilkS) (width 0.127))
+  (fp_line (start 0.4 0.5) (end -0.4 0.5) (layer F.SilkS) (width 0.127))
   (pad 1 smd rect (at -0.75 0) (size 0.8 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.75 0) (size 0.8 0.8) (layers F.Cu F.Paste F.Mask))
   (model smd\resistors\R0603.wrl
-    (at (xyz 0 0 0.001000000047497451))
+    (offset (xyz 0 0 0.02540000082496551))
     (scale (xyz 0.5 0.5 0.5))
     (rotate (xyz 0 0 0))
   )

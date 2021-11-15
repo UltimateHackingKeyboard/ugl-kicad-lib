@@ -14,6 +14,16 @@ D Afficheur Leds 7 segments
 K DEV
 $ENDCMP
 #
+$CMP ADNS-3530
+D Panasonic hall effect sensor - unidirectional
+K Hall CMOS
+$ENDCMP
+#
+$CMP AN48841B
+D Panasonic hall effect sensor - unidirectional
+K Hall CMOS
+$ENDCMP
+#
 $CMP BI_LED
 D LED DOUBLE type Bicolore
 K LED
@@ -22,6 +32,11 @@ $ENDCMP
 $CMP BRIDGE
 D Pont de Diodes
 K Pont Diode
+$ENDCMP
+#
+$CMP BU52012HFV-TR
+D ROHM - Hall Effect Sensor, Unipolar, 500 µA, HVSOF, 5 Pins, 1.65 V, 3.3 V
+K Hall CMOS
 $ENDCMP
 #
 $CMP C
@@ -48,6 +63,11 @@ D Symbole general de connexion
 K CONN
 $ENDCMP
 #
+$CMP CONN_16
+D Symbole general de connexion
+K CONN
+$ENDCMP
+#
 $CMP CONN_4
 D Symbole general de connecteur
 K CONN
@@ -63,6 +83,11 @@ D ymbole general de connecteur
 K CONN
 $ENDCMP
 #
+$CMP CONN_7
+D ymbole general de connecteur
+K CONN
+$ENDCMP
+#
 $CMP CONN_8
 D Symbole general de connecteur
 K CONN
@@ -71,6 +96,10 @@ $ENDCMP
 $CMP CONN_9
 D Symbole general de connexion
 K CONN
+$ENDCMP
+#
+$CMP CONN_USB_C
+K CONN USB
 $ENDCMP
 #
 $CMP CP
@@ -163,6 +192,14 @@ $CMP FSUSB42
 D FSUSB42
 $ENDCMP
 #
+$CMP IQS572
+D FSUSB42
+$ENDCMP
+#
+$CMP Joystick
+D by SparkFun
+$ENDCMP
+#
 $CMP LED
 K LED
 $ENDCMP
@@ -208,6 +245,14 @@ $ENDCMP
 $CMP R
 D Resistance
 K R DEV
+$ENDCMP
+#
+$CMP RGB_LED
+K LED
+$ENDCMP
+#
+$CMP RGB_LED_PLCC4
+K LED
 $ENDCMP
 #
 $CMP RR8
@@ -271,6 +316,11 @@ $ENDCMP
 $CMP THYRISTOR
 D Diode simple
 K DEV DIODE
+$ENDCMP
+#
+$CMP TLE4964-5M
+D Panasonic hall effect sensor - unidirectional
+K Hall CMOS
 $ENDCMP
 #
 $CMP VR
